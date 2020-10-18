@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Manika Lamba</title>
-    <link>https://manika007.github.io/post/</link>
-      <atom:link href="https://manika007.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://manika-lamba.github.io/post/</link>
+      <atom:link href="http://manika-lamba.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Manika Lamba</copyright><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://manika007.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://manika-lamba.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://manika007.github.io/post/</link>
+      <link>http://manika-lamba.github.io/post/</link>
     </image>
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://manika007.github.io/post/icdl2019/</link>
+      <link>http://manika-lamba.github.io/post/icdl2019/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://manika007.github.io/post/icdl2019/</guid>
+      <guid>http://manika-lamba.github.io/post/icdl2019/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -41,7 +41,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-758423196&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-473562189&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -51,7 +51,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-758423196&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-473562189&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -291,9 +291,9 @@ You found me!
     
     <item>
       <title>ETD 2019 (Taipei, Taiwan)</title>
-      <link>https://manika007.github.io/post/etd2018/</link>
+      <link>http://manika-lamba.github.io/post/etd2018/</link>
       <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://manika007.github.io/post/etd2018/</guid>
+      <guid>http://manika-lamba.github.io/post/etd2018/</guid>
       <description></description>
     </item>
     
