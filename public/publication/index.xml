@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Manika Lamba</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Manika Lamba</copyright><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Research productivity of health care policy faculty: a cohort study of Harvard Medical School</title>
+      <link>/publication/journal-article/2/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping of ETDs in ProQuest dissertations and theses (PQDT) global database  (2014-2018)</title>
+      <link>/publication/journal-article/3/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text Analysis of ETDs in ProQuest Dissertations and Theses (PQDT) Global (2016-2018)</title>
+      <link>/publication/conference-paper/1/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping of topics in DESIDOC Journal of Library and Information  Technology,  India: a study</title>
+      <link>/publication/journal-article/1/</link>
+      <pubDate>Fri, 07 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metadata Tagging and Prediction Modeling: Case Study of DESIDOC  Journal of  Library and Information Technology (2008–17)</title>
+      <link>/publication/journal-article/4/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author-Topic Modeling of DESIDOC Journal of Library and Information Technology (2008-2017), India</title>
+      <link>/publication/journal-article/6/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing of academic health libraries 2.0: a case study</title>
+      <link>/publication/journal-article/5/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing of University College of Medical Sciences Library, University of Delhi A Study</title>
+      <link>/publication/book-chapter/2/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/book-chapter/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Paradigm in Library 2.0 Sentiment Analysis of Twitter</title>
+      <link>/publication/book-chapter/1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/book-chapter/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metadata Tagging of Library and Information Science Theses Shodhganga (2013-2017)</title>
+      <link>/publication/conference-paper/2/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of sentiment analysis in libraries to provide temporal information service: a case study on various facets of productivity</title>
+      <link>/publication/journal-article/7/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-article/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Topic Mining and Prediction Modeling Tools for Library and Information Science Journals</title>
+      <link>/publication/book-chapter/3/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/book-chapter/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marketing of LIS Products and Services in Select Medical Libraries of Delhi in Digital Environment: A Comparative Study</title>
+      <link>/publication/conference-paper/3/</link>
+      <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-paper/3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
