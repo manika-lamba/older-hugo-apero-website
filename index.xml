@@ -5,7 +5,7 @@
     <link>https://manika-lamba.github.io/</link>
       <atom:link href="https://manika-lamba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Manika Lamba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Manika Lamba</copyright><lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Manika Lamba</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manika-lamba.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Manika Lamba</title>
@@ -13,18 +13,35 @@
     </image>
     
     <item>
-      <title>Research Evaluation of Computer Science Departments: A Cohort Study of Indian Central Universities</title>
-      <link>https://manika-lamba.github.io/publication/journal-article/9/</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://manika-lamba.github.io/publication/journal-article/9/</guid>
+      <title>COVID Dashboard</title>
+      <link>https://manika-lamba.github.io/project/covid/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://manika-lamba.github.io/project/covid/</guid>
+      <description>&lt;p&gt;This is a pilot project which was analysed and executed in April 2021 to presents the  research productivity of AIIMS, New Delhi on &lt;strong&gt;covid-19/coronavirus&lt;/strong&gt; literature using R programming language. The data was retrieved from Web of Science, Scopus, and PubMed databases for the Query = “corona” OR “covid-19” OR “coronavirus” for AIIMS, New Delhi. Metadata for 853 studies were identified from all the three databases which were then merged and removed for duplicates. Additionally, the document type: comment, letter, correction, editorial, editorial material, editorial material-early access, erratum, published erratum, meeting abstract, note, and retracted, were also removed.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;strong&gt;storyboard&lt;/strong&gt; visualizes the results of &lt;em&gt;descriptive analysis&lt;/em&gt;, &lt;em&gt;network analysis&lt;/em&gt;, and &lt;em&gt;topic modeling&lt;/em&gt;.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;strong&gt;dashboard&lt;/strong&gt; shows the &lt;em&gt;topic modeling&lt;/em&gt; results.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The changing roles of librarians: Managing emerging technologies in libraries</title>
+      <link>https://manika-lamba.github.io/publication/book-chapter/4/</link>
+      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://manika-lamba.github.io/publication/book-chapter/4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Dashboard</title>
-      <link>https://manika-lamba.github.io/project/internal-project/</link>
-      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://manika-lamba.github.io/project/internal-project/</guid>
+      <title>Research Evaluation of Computer Science Departments: A Cohort Study of Indian Central Universities</title>
+      <link>https://manika-lamba.github.io/publication/journal-article/9/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://manika-lamba.github.io/publication/journal-article/9/</guid>
       <description></description>
     </item>
     
@@ -96,7 +113,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-816532947&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-756238149&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -106,7 +123,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-816532947&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-756238149&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -546,14 +563,6 @@ Three
       <link>https://manika-lamba.github.io/publication/conference-paper/3/</link>
       <pubDate>Thu, 26 Oct 2017 00:00:00 +0000</pubDate>
       <guid>https://manika-lamba.github.io/publication/conference-paper/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>https://manika-lamba.github.io/project/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://manika-lamba.github.io/project/projects/</guid>
       <description></description>
     </item>
     
