@@ -5,12 +5,70 @@
     <link>https://manika-lamba.github.io/</link>
       <atom:link href="https://manika-lamba.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Manika Lamba</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Manika Lamba</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Manika Lamba</copyright><lastBuildDate>Wed, 05 May 2021 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://manika-lamba.github.io/images/icon_hu461c47cd989447a47154ce6874dc3611_260422_512x512_fill_lanczos_center_2.png</url>
       <title>Manika Lamba</title>
       <link>https://manika-lamba.github.io/</link>
     </image>
+    
+    <item>
+      <title>Learn basic analytics techniques using R</title>
+      <link>https://manika-lamba.github.io/videos/youtube/2/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
+      <guid>https://manika-lamba.github.io/videos/youtube/2/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;1. Convert .pdf to .txt&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This video shows the conversion of documents from .pdf to .txt format in R.
+Link to download XpdfReader: &lt;a href=&#34;https://www.xpdfreader.com/download.html&#34;&gt;https://www.xpdfreader.com/download.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/w07LlBFrMCY&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learn LaTex</title>
+      <link>https://manika-lamba.github.io/videos/youtube/4/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
+      <guid>https://manika-lamba.github.io/videos/youtube/4/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;1. Build Academic CV/Resume in Overleaf&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Learn how to make an academic CV/Resume using LaTex open-source software &amp;mdash; Overleaf.&lt;/p&gt;
+&lt;p&gt;Guide to Overleaf: &lt;a href=&#34;https://www.overleaf.com/learn/latex/Bold,_italics_and_underlining&#34;&gt;https://www.overleaf.com/learn/latex/Bold,_italics_and_underlining&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Link of the template used in the video: &lt;a href=&#34;https://www.overleaf.com/latex/templates/prometheuscv/hhkdyvbtvhsq&#34;&gt;https://www.overleaf.com/latex/templates/prometheuscv/hhkdyvbtvhsq&lt;/a&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/7KNWbqLS_10&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Additional Videos</title>
+      <link>https://manika-lamba.github.io/videos/youtube/5/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
+      <guid>https://manika-lamba.github.io/videos/youtube/5/</guid>
+      <description>&lt;h3 id=&#34;social-media-research&#34;&gt;Social Media Research&lt;/h3&gt;
+&lt;p&gt;I was invited as a discussant to the &amp;ldquo;Social Media Research&amp;rdquo; session at 5th Library Technology Conclave (LTC2021)​​. This section consists of two short videos where you will get answers to the two questions I asked during the session.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Question 1&lt;/strong&gt; : &lt;em&gt;How to overcome major biases in social media research data?&lt;/em&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/rYmGZCitCOk&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;Question 2&lt;/strong&gt; : &lt;em&gt;Is there any ethical framework for social media research?&lt;/em&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/alnXjR_-OB8&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Analysis of COVID-19 Research </title>
@@ -113,7 +171,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-389725641&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-479528361&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -123,7 +181,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-389725641&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-479528361&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
