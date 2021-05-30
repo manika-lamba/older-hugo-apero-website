@@ -88,6 +88,24 @@ Link to download XpdfReader: &lt;a href=&#34;https://www.xpdfreader.com/download
     </item>
     
     <item>
+      <title>Visualizing Topic Models for Indian Journal</title>
+      <link>https://manika-lamba.github.io/project/djlit/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://manika-lamba.github.io/project/djlit/</guid>
+      <description>&lt;p&gt;COMING SOON&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Topic Models for International ETDs</title>
+      <link>https://manika-lamba.github.io/project/pqdt/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://manika-lamba.github.io/project/pqdt/</guid>
+      <description>&lt;p&gt;COMING SOON&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The changing roles of librarians: Managing emerging technologies in libraries</title>
       <link>https://manika-lamba.github.io/publication/book-chapter/4/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
@@ -109,6 +127,21 @@ Link to download XpdfReader: &lt;a href=&#34;https://www.xpdfreader.com/download
       <pubDate>Fri, 11 Dec 2020 00:00:00 +0000</pubDate>
       <guid>https://manika-lamba.github.io/publication/journal-article/8/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Visualizing Topic Models for Indian ETDs</title>
+      <link>https://manika-lamba.github.io/project/shodhganga/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://manika-lamba.github.io/project/shodhganga/</guid>
+      <description>&lt;p&gt;I performed a 
+&lt;a href=&#34;https://zenodo.org/record/1475795#.X-YrudgzYuE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;study&lt;/a&gt; in 2018 to identify the core topics in 98 full-text &lt;em&gt;library and information science&lt;/em&gt; Electronic Theses and Dissertations (ETDs) using 
+&lt;a href=&#34;https://code.google.com/archive/p/topic-modeling-tool/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Topic-Modeling-Toolkit&lt;/a&gt; for the period of 2013-2017.&lt;/p&gt;
+&lt;p&gt;The following 
+&lt;a href=&#34;https://public.tableau.com/views/Shodhganga/Dashboard1?:language=en&amp;amp;:embed=y&amp;amp;:embed_code_version=3&amp;amp;:loadOrderID=0&amp;amp;:display_count=y&amp;amp;:origin=viz_share_link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dashboard&lt;/a&gt; helps to visualize the topic modeling results of the above study. It was prepared using 
+&lt;a href=&#34;https://www.tableau.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tableau&lt;/a&gt; on 25 December 2020. The data used to prepare the dashboard is available for download and can be searched using the publication year, topics, and keywords for title.&lt;/p&gt;
+&lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1622368318251&#39; style=&#39;position: relative&#39;&gt;&lt;noscript&gt;&lt;a href=&#39;#&#39;&gt;&lt;img alt=&#39;Dashboard 1 &#39; src=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Sh&amp;#47;Shodhganga&amp;#47;Dashboard1&amp;#47;1_rss.png&#39; style=&#39;border: none&#39; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&#39;tableauViz&#39;  style=&#39;display:none;&#39;&gt;&lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt; &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt; &lt;param name=&#39;site_root&#39; value=&#39;&#39; /&gt;&lt;param name=&#39;name&#39; value=&#39;Shodhganga&amp;#47;Dashboard1&#39; /&gt;&lt;param name=&#39;tabs&#39; value=&#39;no&#39; /&gt;&lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;static_image&#39; value=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Sh&amp;#47;Shodhganga&amp;#47;Dashboard1&amp;#47;1.png&#39; /&gt; &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;language&#39; value=&#39;en&#39; /&gt;&lt;/object&gt;&lt;/div&gt;                &lt;script type=&#39;text/javascript&#39;&gt;                    var divElement = document.getElementById(&#39;viz1622368318251&#39;);                    var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];                    if ( divElement.offsetWidth &gt; 800 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else if ( divElement.offsetWidth &gt; 500 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=&#39;727px&#39;;}                     var scriptElement = document.createElement(&#39;script&#39;);                    scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                &lt;/script&gt;
+</description>
     </item>
     
     <item>
@@ -171,7 +204,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-832754169&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-276894315&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -181,7 +214,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-832754169&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-276894315&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

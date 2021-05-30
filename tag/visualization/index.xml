@@ -1,33 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Manika Lamba</title>
-    <link>https://manika-lamba.github.io/project/</link>
-      <atom:link href="https://manika-lamba.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Visualization | Manika Lamba</title>
+    <link>https://manika-lamba.github.io/tag/visualization/</link>
+      <atom:link href="https://manika-lamba.github.io/tag/visualization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Visualization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Manika Lamba</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manika-lamba.github.io/images/icon_hu461c47cd989447a47154ce6874dc3611_260422_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://manika-lamba.github.io/project/</link>
+      <title>Visualization</title>
+      <link>https://manika-lamba.github.io/tag/visualization/</link>
     </image>
-    
-    <item>
-      <title>Analysis of COVID-19 Research </title>
-      <link>https://manika-lamba.github.io/project/covid/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://manika-lamba.github.io/project/covid/</guid>
-      <description>&lt;p&gt;This is a pilot project which was analysed and executed in April 2021 to presents the  research productivity of AIIMS, New Delhi on &lt;strong&gt;covid-19/coronavirus&lt;/strong&gt; literature using R programming language. The data was retrieved from Web of Science, Scopus, and PubMed databases for the Query = “corona” OR “covid-19” OR “coronavirus” for AIIMS, New Delhi. Metadata for 853 studies were identified from all the three databases which were then merged and removed for duplicates. Additionally, the document type: comment, letter, correction, editorial, editorial material, editorial material-early access, erratum, published erratum, meeting abstract, note, and retracted, were also removed.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;The &lt;strong&gt;storyboard&lt;/strong&gt; visualizes the results of &lt;em&gt;descriptive analysis&lt;/em&gt;, &lt;em&gt;network analysis&lt;/em&gt;, and &lt;em&gt;topic modeling&lt;/em&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The &lt;strong&gt;dashboard&lt;/strong&gt; shows the &lt;em&gt;topic modeling&lt;/em&gt; results.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-    </item>
     
     <item>
       <title>Visualizing Topic Models for Indian Journal</title>
