@@ -30,6 +30,53 @@ Link to download XpdfReader: &lt;a href=&#34;https://www.xpdfreader.com/download
     </item>
     
     <item>
+      <title>Reproduce Your Research Using BINDER | RStudio | Jupyter Notebook</title>
+      <link>https://manika-lamba.github.io/videos/youtube/3/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
+      <guid>https://manika-lamba.github.io/videos/youtube/3/</guid>
+      <description>&lt;h2 id=&#34;from-zero-to-binder-in-r&#34;&gt;From Zero to Binder in R!&lt;/h2&gt;
+&lt;p&gt;Binder is a service that provides your code and the hardware and software to execute it. You can create a link to a live, interactive version of your code!&lt;/p&gt;
+&lt;h2 id=&#34;running-code-is-more-complicated-than-displaying-code&#34;&gt;Running Code is more complicated than Displaying Code&lt;/h2&gt;
+&lt;p&gt;GitHub is a great service for sharing code, but the contents are static. How could you run a GitHub repository without installing complicated requirements? Or even in your browser?&lt;/p&gt;
+&lt;p&gt;To run code, you need:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hardware on which to run the code&lt;/li&gt;
+&lt;li&gt;Software, including:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;The code itself&lt;/li&gt;
+&lt;li&gt;The programming language (e.g. Python, R, Julia, and so on)&lt;/li&gt;
+&lt;li&gt;Relevant packages (e.g. pandas, matplotlib, tidyverse, ggplot)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;why-did-the-repo-have-to-be-public&#34;&gt;Why did the repo have to be public?&lt;/h2&gt;
+&lt;p&gt;mybinder.org cannot access private repositories as this would require a secret token. The Binder team choose not to take on the responsibility of handling secret tokens as mybinder.org is a public service and proof of technological concept. If accessing private repositories is a feature you/your team need, we advise that you look into building your own BinderHub.&lt;/p&gt;
+&lt;h2 id=&#34;whats-happening-in-the-background&#34;&gt;What&amp;rsquo;s happening in the background?&lt;/h2&gt;
+&lt;p&gt;While you wait, BinderHub (the backend of Binder) is:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Fetching your repo from GitHub&lt;/li&gt;
+&lt;li&gt;Analysing the contents&lt;/li&gt;
+&lt;li&gt;Creating a Docker file based on your repo&lt;/li&gt;
+&lt;li&gt;Launching that Docker image in the Cloud&lt;/li&gt;
+&lt;li&gt;Connecting you to it via your browser&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;sharing-your-work&#34;&gt;Sharing your Work&lt;/h2&gt;
+&lt;p&gt;Binder is all about sharing your work easily by sharing the URL directly or click on the badge.&lt;/p&gt;
+&lt;h2 id=&#34;links&#34;&gt;Links&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Link to the Template: &lt;a href=&#34;https://github.com/binder-examples/r&#34;&gt;https://github.com/binder-examples/r&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link to Convert the repositories with Jupyter Notebook directly: &lt;a href=&#34;https://mybinder.org/&#34;&gt;https://mybinder.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link to my Github Repository for this video: &lt;a href=&#34;https://github.com/manika-lamba/youtube_lda&#34;&gt;https://github.com/manika-lamba/youtube_lda&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/SGPwBNoDQaA&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Learn LaTex</title>
       <link>https://manika-lamba.github.io/videos/youtube/4/</link>
       <pubDate>Wed, 05 May 2021 00:00:00 +0100</pubDate>
@@ -214,7 +261,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-784562139&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-423897165&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -224,7 +271,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-784562139&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-423897165&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
