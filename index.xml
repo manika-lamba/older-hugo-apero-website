@@ -7,7 +7,7 @@
     <description>Manika Lamba</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Manika Lamba</copyright><lastBuildDate>Wed, 05 May 2021 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>https://manika-lamba.github.io/images/icon_hu461c47cd989447a47154ce6874dc3611_260422_512x512_fill_lanczos_center_2.png</url>
+      <url>https://manika-lamba.github.io/media/static/img/avatar.jpg</url>
       <title>Manika Lamba</title>
       <link>https://manika-lamba.github.io/</link>
     </image>
@@ -298,7 +298,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-972381564&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-647195832&#34; class=&#34;chart pb-3&#34; style=&#34;max-width: 100%; margin: auto;&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -308,7 +308,7 @@ data&lt;span style=&#34;color:#f92672&#34;&gt;.&lt;/span&gt;head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-972381564&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-647195832&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
