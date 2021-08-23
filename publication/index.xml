@@ -5,12 +5,20 @@
     <link>https://manika-lamba.github.io/publication/</link>
       <atom:link href="https://manika-lamba.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications📑</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Manika Lamba</copyright><lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2021 Manika Lamba</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manika-lamba.github.io/media/static/img/avatar.jpg</url>
       <title>Publications📑</title>
       <link>https://manika-lamba.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>South Asia Chapter Newsletter Vol. 1 Issue 1</title>
+      <link>https://manika-lamba.github.io/publication/newsletter/2021/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://manika-lamba.github.io/publication/newsletter/2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The changing roles of librarians: Managing emerging technologies in libraries</title>
