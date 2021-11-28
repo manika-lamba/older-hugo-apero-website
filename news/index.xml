@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks on Manika Lamba</title>
+    <title>News on Manika Lamba</title>
     <link>https://manika-lamba.github.io/news/</link>
-    <description>Recent content in Talks on Manika Lamba</description>
+    <description>Recent content in News on Manika Lamba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Jan 2021 17:30:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/news/index.xml" rel="self" type="application/rss+xml" />
