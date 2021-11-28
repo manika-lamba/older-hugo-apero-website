@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2018 on Manika Lamba</title>
+    <link>https://manika-lamba.github.io/categories/2018/</link>
+    <description>Recent content in 2018 on Manika Lamba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Sep 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/categories/2018/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Metadata Tagging of Library and Information Science Theses Shodhganga (2013-2017)</title>
+      <link>https://manika-lamba.github.io/publication/5/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/publication/5/</guid>
+      <description>
+
+
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+  &lt;a href=&#34;#abstract&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Electronic Theses and Dissertations (ETDs) poses the challenge of managing and extraction of appropriate knowledge for decision making. To tackle the same, topic modeling was first applied to Library and Information Science (LIS) theses submitted to Shodhganga (an Indian ETDs digital repository) to determine the five core topics/tags and then the performance of the built model based on those topics/tags were analyzed. Using a Latent Dirichlet Allocation based Topic-Modeling-Toolkit, the five core topics were found to be information literacy, user studies, scientometrics, library resources and library services for the epoch 2013-2017 and consequently all the theses were summarized with the presence of their respective topic proportion for the tags/topics. A Support Vector Machine (Linear) prediction model using RapidMiner toolbox was created and showed 88.78% accuracy with 0.85 kappa value.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of sentiment analysis in libraries to provide temporal information service: a case study on various facets of productivity</title>
+      <link>https://manika-lamba.github.io/publication/4/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/publication/4/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+  &lt;a href=&#34;#abstract&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;With the advent of social media, people have found new ways through which they can express their views, opinions, and beliefs . This study presents an interdisciplinary nature of research where sentiment analysis is applied to the economics discipline of productivity as an experimental study to introduce new service for libraries’ users. Firstly, data were retrieved from Twitter on 20 different queries related to productivity using RapidMiner platform and then sentiment analysis was performed employing AYLIEN Text Analysis Software. A total of 6416 tweets were mined from Twitter for a period of 13 days. Further, 676 prominent hashtags had been identified where 83 hashtags were found to be associated with a geographical location in the tweets. It was observed that the United Kingdom was the most popular country which was being used as a hashtag on Twitter in relation to various facets of the productivity followed by India, the United States, China, and Nigeria. In regard to polarity, most of the tweets were found to be of neutral polarity and most of the positive tweets had a low percentage value. The information analyzed using this strategy can be repackaged as a consolidated time-based service and can be presented to libraries’ users in different formats. This study not only introduces a nascent way to cater to the information needs of today’s users, but also proposes a new way of conducting marketing in libraries using social media mining and sentiment analysis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Application of Topic Mining and Prediction Modeling Tools for Library and Information Science Journals</title>
+      <link>https://manika-lamba.github.io/publication/2/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/publication/2/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+  &lt;a href=&#34;#abstract&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This chapter presents a method for analyzing text data called topic modeling and applying it to the field of Library and Information Science. It describes the importance and usage of topic mining for researchers and librarians. An experiment study is also covered which applies topic modeling in a real scenario, where five model topics for the articles published in DESIDOC Journal of Library and Information Technology for the year 2017 using Topic-Modeling-Toolkit and prediction modeling is constructed using RapidMiner toolbox.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
+

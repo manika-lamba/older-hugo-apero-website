@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Manika Lamba</title>
+    <link>https://manika-lamba.github.io/project/</link>
+    <description>Recent content in Projects on Manika Lamba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 27 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Text Mining for Information Professionals</title>
+      <link>https://manika-lamba.github.io/project/text-mining/</link>
+      <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/project/text-mining/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;cover_lamba.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;about-this-book&#34;&gt;About this Book
+  &lt;a href=&#34;#about-this-book&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Machine learning and artificial intelligence are the futuristic approaches dominating all disciplines currently. Data analytics, data mining, and data science are some of the significant sub-domains with a strong market of research and jobs at the moment in the world. With a long leap from paper to digitization, the burden on libraries and librarians has increased to manage, organize, and generate knowledge from such a massive amount of data stored in their repositories/databases/websites. As libraries deal with a higher percentage of textual data daily, this book focuses primarily on textual data and presents various text mining approaches through a new lens. Text mining is a very efficient, fast, and effective way of managing and extracting knowledge from existing data stored in the archives of libraries. This book will make every library and information professional competent to use text mining in their daily life and get the best out of it by serving their patrons, researchers, faculty, or scientists with new services. Text mining techniques can be applied to any library type, be it a school, university, or special library by the librarians. It will help to provide the right information to the right user at the right time by providing services like recommendation services, current awareness services, or selective dissemination services to its users.&lt;/p&gt;
+&lt;p&gt;From understanding different types and forms of data to case studies covering primary research showing the application of each text mining approach on data retrieved from various resources, this book will be a must-read for all library professionals interested in text mining and its application in libraries. Additionally, this book will be helpful to archivists, digital curators, or any other humanities and social science professionals who want to understand the basic theory behind text data, text mining, and various tools and techniques available to solve and visualize their research problems.&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;key-points-of-the-book&#34;&gt;Key Points of the Book
+  &lt;a href=&#34;#key-points-of-the-book&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Contains 14 demonstrative step-by-step case studies which show how to conduct 8 different text mining and visualization approaches on 9 distinct data type sources&lt;/li&gt;
+&lt;li&gt;Provides case studies demonstrating the use of five open-source software for both non-programmers and programmers&lt;/li&gt;
+&lt;li&gt;Reproduces six case studies using R programming in the cloud without having to install any software&lt;/li&gt;
+&lt;li&gt;Story section presenting 17 real-life experiences of the application of text mining methods and tools by 24 librarians/researchers/faculty/publishers&lt;/li&gt;
+&lt;li&gt;Elucidates 19 open-source text mining and visualization tools with their advantages and disadvantages&lt;/li&gt;
+&lt;li&gt;Illustrates various use cases that show how text mining strategies have been used in different ways in libraries across the globe&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The book contains 11 chapters, 14 case studies showing 8 different text mining and visualization approaches, and 17 stories. A website (&lt;a href=&#34;https://textmining-infopros.github.io/&#34;&gt;https://textmining-infopros.github.io/&lt;/a&gt;) and a GitHub account (&lt;a href=&#34;https://github.com/textmining-infopros&#34;&gt;https://github.com/textmining-infopros&lt;/a&gt;) are also maintained for the book. They contain the code, data, and notebooks for the case studies; a summary of all the stories shared by the librarians/faculty; and hyperlinks to open an interactive virtual RStudio/Jupyter Notebook environment. The interactive virtual environment runs case studies based on the R programming language for hands-on practice in the cloud without installing any software. Text mining is a topic of international interest, and this book has been written to meet the reading interests of both national and international audiences. It will be appropriate for both beginners and advanced-level readers as it has been written keeping their information needs in mind.&lt;/p&gt;
+&lt;p&gt;Many books in the market are written to meet the need of computer science professionals on text mining, whereas there are very few books on text mining for librarians. Also, the books present in the market on this topic are very difficult for non-programmers to understand. They may contain lots of jargon, which may not be easily understood by a library professional. In contrast, this book focuses on a basic theoretical framework dealing with the problems, solutions, and applications of text mining and its various facets in the form of case studies, use cases, and stories.&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;citation&#34;&gt;Citation
+  &lt;a href=&#34;#citation&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+
+
+&lt;h4 id=&#34;mla&#34;&gt;MLA
+  &lt;a href=&#34;#mla&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Lamba Manika and Madhusudhan, Margam. Text Mining for Information Professionals: An Uncharted Territory. Springer, 2022. &lt;a href=&#34;https://link.springer.com/book/9783030850845&#34;&gt;https://link.springer.com/book/9783030850845&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+&lt;h4 id=&#34;apa&#34;&gt;APA
+  &lt;a href=&#34;#apa&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Lamba Manika and Madhusudhan, Margam. (2022). Text Mining for Information Professionals: An Uncharted Territory. Springer. &lt;a href=&#34;https://link.springer.com/book/9783030850845&#34;&gt;https://link.springer.com/book/9783030850845&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+&lt;h4 id=&#34;chicago&#34;&gt;Chicago
+  &lt;a href=&#34;#chicago&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Lamba Manika and Madhusudhan, Margam. Text Mining for Information Professionals: An Uncharted Territory, Switzerland AG: Springer, 2022. &lt;a href=&#34;https://link.springer.com/book/9783030850845&#34;&gt;https://link.springer.com/book/9783030850845&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Technological Advancements in Library Service Innovation</title>
+      <link>https://manika-lamba.github.io/project/library_services/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/project/library_services/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Innovations in library services are rapidly developing within numerous areas including building design, program and event planning, patron experience and engagement, literacy program development, and administration and management. To ensure these changes are implemented and considered successfully, a closer look at the challenges, trends, and practices of these innovations is crucial.&lt;/p&gt;
+&lt;p&gt;Technological Advancements in Library Service Innovation examines the recent activities of successful and groundbreaking research and practices around the world surrounding library service innovation and presents various forward-thinking initiatives. It also provides an overview of libraries’ successful experiences, identifies emerging global themes and trends, and offers guidance to library practitioners on how to pursue the recent trends in their own library environment. Covering topics such as technology adoption and organizational structures, this book is ideal for library professionals, researchers, academicians, instructors, and students.&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;coverage&#34;&gt;Coverage
+  &lt;a href=&#34;#coverage&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The many academic areas covered in this publication include, but are not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Administration&lt;/li&gt;
+&lt;li&gt;Building Design&lt;/li&gt;
+&lt;li&gt;Conceptual Models&lt;/li&gt;
+&lt;li&gt;Creative Programming&lt;/li&gt;
+&lt;li&gt;Digital Tools&lt;/li&gt;
+&lt;li&gt;Disruptive Innovation&lt;/li&gt;
+&lt;li&gt;Information Retrieval&lt;/li&gt;
+&lt;li&gt;Knowledge Management&lt;/li&gt;
+&lt;li&gt;Organizational Structures&lt;/li&gt;
+&lt;li&gt;Technology Adoption&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h2 id=&#34;citation&#34;&gt;Citation
+  &lt;a href=&#34;#citation&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+
+
+&lt;h4 id=&#34;mla&#34;&gt;MLA
+  &lt;a href=&#34;#mla&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Lamba, Manika, editor. Technological Advancements in Library Service Innovation. IGI Global, 2022. http://doi:10.4018/978-1-7998-8942-7&lt;/p&gt;
+
+
+
+
+&lt;h4 id=&#34;apa&#34;&gt;APA
+  &lt;a href=&#34;#apa&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Lamba, M. (Ed.). (2022). Technological Advancements in Library Service Innovation. IGI Global. http://doi:10.4018/978-1-7998-8942-7&lt;/p&gt;
+
+
+
+
+&lt;h4 id=&#34;chicago&#34;&gt;Chicago
+  &lt;a href=&#34;#chicago&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Lamba, Manika, ed. Technological Advancements in Library Service Innovation. Hershey, PA: IGI Global, 2022. http://doi:10.4018/978-1-7998-8942-7&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dealing with COVID-19 and Saving People’s Lives in South Asia (SA) Areas and Beyond</title>
+      <link>https://manika-lamba.github.io/project/asist/</link>
+      <pubDate>Tue, 27 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/project/asist/</guid>
+      <description>
+
+
+
+&lt;h2 id=&#34;about-the-project&#34;&gt;About the Project
+  &lt;a href=&#34;#about-the-project&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The South Asia Chapter (ASIS&amp;amp;T) has been granted the 
+&lt;a href=&#34;https://www.researchgate.net/deref/https%3A%2F%2Fwww.asist.org%2F2021%2F06%2F17%2Fchapter-special-project-funds-awarded%2F&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASIS&amp;amp;T Special Project Fund&lt;/a&gt; of $7000 for the year 2021-22 on the project ‘Dealing with COVID-19 and saving people’s lives in South Asia (SA) areas &amp;amp; beyond - A health informatics promotion project’. The Chapter has set up a 
+&lt;a href=&#34;https://www.youtube.com/channel/UC-pt07aaW07tWg7InS2dSDg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;YouTube channel&lt;/strong&gt;&lt;/a&gt; to host multilingual videos for disseminating awareness on a variety of topics on COVID-19 in the South Asia region. We have collaborated with the Asia Pacific Chapter and European Chapter to bring their experiences in dealing with similar viruses in the past. Through this channel, we propose to help in fighting misinformation and disinformation regarding COVID-19 information by citing accurate and reliable sources of information.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;aim--mission&#34;&gt;Aim &amp;amp; Mission
+  &lt;a href=&#34;#aim--mission&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The goals of this health informatics project are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;To spread awareness about COVID-19 issues and behavior.&lt;/li&gt;
+&lt;li&gt;To share the experience of countries with experience of dealing with similar viruses.&lt;/li&gt;
+&lt;li&gt;To help inform people by identifying pertinent topics to deal with COVID-19 highlighting the importance of reliable and accurate information.&lt;/li&gt;
+&lt;li&gt;To identify and share accurate and reliable information from authoritative information sources to fight misinformation and disinformation regarding COVID-19 information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Through these videos, the Chapter will be able to reach out to the masses in the South Asia region highly impacted by COVID-19. The videos will help in spreading awareness about critical COVID-19 care precautions. The topics of the videos will provide accurate &amp;amp; reliable information thereby helping to fight misinformation and disinformation regarding COVID-19. These videos will act as a bridge connecting information with practice- a core principle of ASIS&amp;amp;T.&lt;/p&gt;
+&lt;p&gt;A total of 10 videos on a wide range of topics related to COVID-19 such as ‘Myths about COVID-19 vaccines’; ‘Stay safe from COVID1-9 without or before vaccination’; ‘Vaccine Facts: All you need to know about them’; ‘Myths about COVID-19’ will be added. These multilingual videos are available in five languages- Bangla, English, Hindi, Urdu, and Sinhala. We further collaborate with the creator of ‘Buddysuaurs’ to incorporate videos on the topic ‘Things to do in self-isolation’.&lt;/p&gt;
+&lt;p&gt;To capture the experiences of children during COVID-19 the project will organize a 
+&lt;a href=&#34;https://www.asist.org/2021/10/15/international-digital-story-writing-competition/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;series of workshops&lt;/strong&gt;&lt;/a&gt; that will culminate in creative writing and drawing competitions in the South Asia region for primary and secondary school children.&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;project-team&#34;&gt;Project Team
+  &lt;a href=&#34;#project-team&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The project team has members from five countries representing both the Asia Pacific and South Asia regions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bhakti Gala, PhD, Chair, ASIS&amp;amp;T South Asia, Central University of Gujarat, India&lt;/li&gt;
+&lt;li&gt;Sam Chu, PhD, ASIS&amp;amp;T Chapter Assembly Director, University of Hong Kong, Hong Kong&lt;/li&gt;
+&lt;li&gt;Md. Anwarul Islam, PhD, Past Chair, ASIS&amp;amp;T South Asia Chapter, Dhaka University, Bangladesh&lt;/li&gt;
+&lt;li&gt;Syeda Hina Batool, PhD, Social Media Manager, ASIS&amp;amp;T South Asia Chapter, University of the Punjab, Pakistan&lt;/li&gt;
+&lt;li&gt;Helen Chan, ASIS&amp;amp;T Asia Pacific Chapter, University of Hong Kong, Hong Kong&lt;/li&gt;
+&lt;li&gt;Raj Kumar Bhardwaj, PhD, Member, ASIS&amp;amp;T South Asia Chapter, Central University of Punjab, India&lt;/li&gt;
+&lt;li&gt;Manika Lamba, Newsletter Officer &amp;amp; Webmaster, ASIS&amp;amp;T South Asia Chapter, University of Delhi, India&lt;/li&gt;
+&lt;li&gt;Prasadi Kanchana Jayasekara, Member, ASIS&amp;amp;T South Asia Chapter, University of Ruhuna, Sri Lanka&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We acknowledge the participation of Crystal Fulton, ASIS&amp;amp;T European Chapter, and Jiban K Pal, Member, ASIS&amp;amp;T South Asia Chapter during our initial discussions.&lt;/p&gt;
+
+
+
+
+&lt;h3 id=&#34;different-tasks-performed&#34;&gt;Different Tasks Performed
+  &lt;a href=&#34;#different-tasks-performed&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Video transcripts were prepared by the following ASIS&amp;amp;T members in English:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Video 1: Hina Batool, Manika Lamba, and Prasadi Kanchana Jayasekara&lt;/li&gt;
+&lt;li&gt;Video 2: Sam Chu, Athena WL Hong, Helen Chen, and Xiangning Li&lt;/li&gt;
+&lt;li&gt;Video 3: Bhakti Gala, and Raj Kumar Bhardwaj&lt;/li&gt;
+&lt;li&gt;Video 4: Md. Anwarul Islam and Bhakti Gala&lt;/li&gt;
+&lt;li&gt;Video 5: YC Chan and Sam Chu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;The transcripts were translated into four different South Asian languages by the following ASIS&amp;amp;T members:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Hindi: Bhakti Gala, Raj Bhardwaj&lt;/li&gt;
+&lt;li&gt;Bengali: Md Anwarul Islam&lt;/li&gt;
+&lt;li&gt;Urdu: Hina Batool&lt;/li&gt;
+&lt;li&gt;Sinhala: Prasadi Kanchana Jayasekara&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;Digital Story Competition was organized by Sam Chu and Helen Chen&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Marketing was done by Manika Lamba&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+&lt;h2 id=&#34;media-coverage&#34;&gt;Media Coverage
+  &lt;a href=&#34;#media-coverage&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The Project has been featured in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;newsletter.pdf&#34;&gt;Newsletter of the University Librarians Association of Sri Lanka&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;adinet.pdf&#34;&gt;Advanced Information Network of Libraries in Gujarat (ADINET) Newsletter&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://informationmatters.org/2021/10/saving-lives-a-health-informatics-project-on-covid-19-from-asist-south-asia-chapter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Information Matters&lt;/a&gt;,&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.asist.org/chapters-saasist-news/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASIS&amp;amp;T South Asia Chapter News&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.asist.org/chapters-saasist-blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ASIS&amp;amp;T South Asia Chapter Blog&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;http://www.thelibrariantimes.com/uncategorized/south-asia-chapter-asist-has-been-awarded-special-funding-to-pursue-a-project-on-dealing-with-covid-19/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Librarian Times Blog&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h1 id=&#34;videos&#34;&gt;Videos
+  &lt;a href=&#34;#videos&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+
+
+
+
+&lt;h3 id=&#34;video-1-myths-about-covid-19-vaccines&#34;&gt;Video 1: Myths about COVID-19 Vaccines
+  &lt;a href=&#34;#video-1-myths-about-covid-19-vaccines&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;“Myths about COVID-19 Vaccines”&lt;/strong&gt; is the first video of the project. This video clarifies various myths surrounding COVID-19 Vaccines related to their development, long-term effects, infertility, and social distancing, among others.&lt;/p&gt;
+&lt;p&gt;The video can be viewed in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/FTdccU5VZMM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Hindi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/gDJemud7MaY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Bengali&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/HEcVciX2ZRs&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Urdu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/qSI3RC1Kilo&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Sinhala&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/LH_8YBQclpE&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;hr/&gt;
+
+
+
+
+&lt;h3 id=&#34;video-2-stay-safe-from-covid-19-without-or-before-vaccination&#34;&gt;Video 2: Stay safe from COVID-19 without or before vaccination
+  &lt;a href=&#34;#video-2-stay-safe-from-covid-19-without-or-before-vaccination&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;“Stay safe from COVID-19 without or before vaccination”&lt;/strong&gt; is the second video of the project. This video has been prepared to give guidelines for staying safe from COVID-19 without or before vaccination. This video is produced as a collaboration with the ASIS&amp;amp;T Asia Pacific Chapter.&lt;/p&gt;
+&lt;p&gt;The video can be viewed in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/pTulrrHjh_0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Hindi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/rdLVNIYQbMY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Bengali&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/bm8r1TVOV4I&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Urdu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/o__u6h_qvMo&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Sinhala&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/QxjWhptAgMc&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;hr/&gt;
+
+
+
+
+&lt;h3 id=&#34;video-3-vaccine-facts---all-you-need-to-know-about-them&#34;&gt;Video 3: Vaccine facts - All you need to know about them
+  &lt;a href=&#34;#video-3-vaccine-facts---all-you-need-to-know-about-them&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;“Vaccine facts: All you need to know about them”&lt;/strong&gt; is the third video of the project. This video describes some basic facts about vaccines. It describes the key components of vaccines and types of vaccines. The video further answers some basic questions like what are the common side effects after getting vaccinated? Which precautions should be taken after vaccination?&lt;/p&gt;
+&lt;p&gt;The video can be viewed in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/zP95SDbHuZg&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Hindi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/F-PiIK49_XE&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Bengali&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/875eKECZ4rM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Urdu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/mcy1mFXeKkE&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Sinhala&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/Ei_o1odWUbk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;hr/&gt;
+
+
+
+
+&lt;h3 id=&#34;video-4-myths-about-covid-19&#34;&gt;Video 4: Myths about COVID-19
+  &lt;a href=&#34;#video-4-myths-about-covid-19&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Myths about COVID-19&amp;rdquo;&lt;/strong&gt; is the fourth video of the project. The video identifies some common myths among people regarding COVID-19 like COVID-19 spreads by swimming; drinking methanol, ethanol or bleach prevents or cures COVID-19, and many more.&lt;/p&gt;
+&lt;p&gt;The video can be viewed in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kV-LTokj23Q&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Hindi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/saBRMdV2NgM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Bengali&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7CrjDiEraWs&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Urdu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/UVtw2rjgPtE&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Sinhala&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/IV8qaK_buCk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;hr/&gt;
+
+
+
+
+&lt;h3 id=&#34;video-5-things-to-do-during-the-pandemic&#34;&gt;Video 5: Things to do during the pandemic
+  &lt;a href=&#34;#video-5-things-to-do-during-the-pandemic&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Things to do during the pandemic&amp;rdquo;&lt;/strong&gt; is the fifth video of the project. This video shares different things to do during self-isolation or while going through lockdowns. The dinosaur buddies- Long Neck, Spikey, and Bigmouth from the series 
+&lt;a href=&#34;http://www.buddysaurus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Buddysaurus&lt;/strong&gt;&lt;/a&gt; created by YC Chan take us on a delightful journey. The buddies introduce various activities which may be undertaken to help deal with loneliness. To seek help we have shared helpline numbers from Bangladesh, India, Pakistan, and Sri Lanka. The video is prepared in collaboration with ASIS&amp;amp;T Asia Pacific Chapter.&lt;/p&gt;
+&lt;p&gt;The video can be viewed in&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;English&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/3OTEGGte9is&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Hindi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;COMING SOON&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bengali&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/dIHnQ0_3q5s&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Urdu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/dcfyGGhWgYM&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;ul&gt;
+&lt;li&gt;Sinhala&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;COMING SOON&lt;/p&gt;
+&lt;hr/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Educational Videos</title>
+      <link>https://manika-lamba.github.io/project/videos/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/project/videos/</guid>
+      <description>&lt;p&gt;I have published few videos on my YouTube channel for teaching computational techniques (like topic modeling, text mining, predictive modeling), R, LaTex, and Reproducible Research. They are summarized as below:&lt;/p&gt;
+
+
+
+
+&lt;h3 id=&#34;text-mining&#34;&gt;Text Mining
+  &lt;a href=&#34;#text-mining&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;A short introductory video on text mining for libraries.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/REQj4PNlaHw&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;topic-modeling&#34;&gt;Topic Modeling
+  &lt;a href=&#34;#topic-modeling&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;(a) This video gives a theoretical framework for topic modeling based on latent Dirichlet allocation (LDA) with a special reference to ETDs and libraries.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/o2UyHXJx-Vk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;(b) This video provides hands-on training on performing and visualizing topic modeling based on Latent Dirichlet Allocation using R. Shodhganga is an open-access repository, so you can download ETDs from it for free and analyse it! You can download the theses in any subject you want from its website - &lt;a href=&#34;https://shodhganga.inflibnet.ac.in&#34;&gt;https://shodhganga.inflibnet.ac.in&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/WcMnKg9IpgY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;(c) Topic-Modeling-Tool is a graphical user interface tool for topic modeling based on Latent Dirichlet Allocation (LDA). It uses MALLET at the back-end to analyze large volumes of unlabeled text. A “topic” consists of a cluster of words that frequently occur together. Using contextual clues, topic models can connect words with similar meanings and distinguish between uses of words with multiple meanings.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/v5u_239E1_4&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;predictive-modelingmachine-learning&#34;&gt;Predictive Modeling/Machine Learning
+  &lt;a href=&#34;#predictive-modelingmachine-learning&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;A short introductory video on prediction modeling (also known as supervised machine learning or predictive modeling).&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cIUjznRFZc0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;learn-basic-analytics-techniques-using-r&#34;&gt;Learn basic analytics techniques using R
+  &lt;a href=&#34;#learn-basic-analytics-techniques-using-r&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;This video shows the conversion of documents from .pdf to .txt format in R. Link to download XpdfReader: &lt;a href=&#34;https://www.xpdfreader.com/download.html&#34;&gt;https://www.xpdfreader.com/download.html&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/w07LlBFrMCY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;reproduce-your-research-using-binder--rstudio--jupyter-notebook&#34;&gt;Reproduce Your Research Using BINDER | RStudio | Jupyter Notebook
+  &lt;a href=&#34;#reproduce-your-research-using-binder--rstudio--jupyter-notebook&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+
+
+
+
+&lt;h5 id=&#34;from-zero-to-binder-in-r&#34;&gt;From Zero to Binder in R!
+  &lt;a href=&#34;#from-zero-to-binder-in-r&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Binder is a service that provides your code and the hardware and software to execute it. You can create a link to a live, interactive version of your code!&lt;/p&gt;
+
+
+
+
+&lt;h5 id=&#34;running-code-is-more-complicated-than-displaying-code&#34;&gt;Running Code is more complicated than Displaying Code
+  &lt;a href=&#34;#running-code-is-more-complicated-than-displaying-code&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;GitHub is a great service for sharing code, but the contents are static. How could you run a GitHub repository without installing complicated requirements? Or even in your browser?&lt;/p&gt;
+
+
+
+
+&lt;h5 id=&#34;to-run-code-you-need&#34;&gt;To run code, you need:
+  &lt;a href=&#34;#to-run-code-you-need&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Hardware on which to run the code&lt;/li&gt;
+&lt;li&gt;Software, including:
+&lt;ul&gt;
+&lt;li&gt;The code itself&lt;/li&gt;
+&lt;li&gt;The programming language (e.g. Python, R, Julia, and so on)&lt;/li&gt;
+&lt;li&gt;Relevant packages (e.g. pandas, matplotlib, tidyverse, ggplot)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h5 id=&#34;why-did-the-repo-have-to-be-public&#34;&gt;Why did the repo have to be public?
+  &lt;a href=&#34;#why-did-the-repo-have-to-be-public&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;mybinder.org cannot access private repositories as this would require a secret token. The Binder team choose not to take on the responsibility of handling secret tokens as mybinder.org is a public service and proof of technological concept. If accessing private repositories is a feature you/your team need, we advise that you look into building your own BinderHub.&lt;/p&gt;
+
+
+
+
+&lt;h5 id=&#34;whats-happening-in-the-background&#34;&gt;What’s happening in the background?
+  &lt;a href=&#34;#whats-happening-in-the-background&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;While you wait, BinderHub (the backend of Binder) is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fetching your repo from GitHub&lt;/li&gt;
+&lt;li&gt;Analysing the contents&lt;/li&gt;
+&lt;li&gt;Creating a Docker file based on your repo&lt;/li&gt;
+&lt;li&gt;Launching that Docker image in the Cloud&lt;/li&gt;
+&lt;li&gt;Connecting you to it via your browser&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h5 id=&#34;sharing-your-work&#34;&gt;Sharing your Work
+  &lt;a href=&#34;#sharing-your-work&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Binder is all about sharing your work easily by sharing the URL directly or click on the badge.&lt;/p&gt;
+
+
+
+
+&lt;h5 id=&#34;links&#34;&gt;Links
+  &lt;a href=&#34;#links&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Link to the Template: &lt;a href=&#34;https://github.com/binder-examples/r&#34;&gt;https://github.com/binder-examples/r&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link to Convert the repositories with Jupyter Notebook directly: &lt;a href=&#34;https://mybinder.org/&#34;&gt;https://mybinder.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link to my Github Repository for this video: &lt;a href=&#34;https://github.com/manika-lamba/youtube_lda&#34;&gt;https://github.com/manika-lamba/youtube_lda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/SGPwBNoDQaA&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;build-academic-cvresume-in-overleaf&#34;&gt;Build Academic CV/Resume in Overleaf
+  &lt;a href=&#34;#build-academic-cvresume-in-overleaf&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Learn how to make an academic CV/Resume using LaTex open-source software — Overleaf.&lt;/p&gt;
+&lt;p&gt;Guide to Overleaf: &lt;a href=&#34;https://www.overleaf.com/learn/latex/Bold,_italics_and_underlining&#34;&gt;https://www.overleaf.com/learn/latex/Bold,_italics_and_underlining&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Link of the template used in the video: &lt;a href=&#34;https://www.overleaf.com/latex/templates/prometheuscv/hhkdyvbtvhsq&#34;&gt;https://www.overleaf.com/latex/templates/prometheuscv/hhkdyvbtvhsq&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7KNWbqLS_10&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;curated-videos&#34;&gt;Curated Videos
+  &lt;a href=&#34;#curated-videos&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+
+
+
+
+&lt;h4 id=&#34;visualising-altmetric-data-in-tableau&#34;&gt;Visualising Altmetric data in Tableau
+  &lt;a href=&#34;#visualising-altmetric-data-in-tableau&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;In this video, Senior Data Analyst Stacy Konkiel teach you how to use the free tool, Tableau Public, to visualise Altmetric data and inform your organisation’s publishing and engagement strategies.&lt;/p&gt;
+&lt;p&gt;Key learnings from this webinar include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The nuts and bolts of building informative Altmetric data visualisations in Tableau Public&lt;/li&gt;
+&lt;li&gt;The best data visualisation techniques to effectively illustrate research influence&lt;/li&gt;
+&lt;li&gt;How to visualise data to encourage responsible use of metrics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;760&#34; height=&#34;415&#34; src=&#34;https://ds.digital-science.com/e/533712/741bcd849-watch-source-CHANNEL/9pzn96/1074669113?h=vgKogXf2C6hiI4OQeCj6f8PPVEBpStt6n4ZKRAU0GNQ&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h4 id=&#34;how-to-perform-sentiment-and-topic-analysis-for-altmetric-data&#34;&gt;How to Perform Sentiment and Topic Analysis for Altmetric Data
+  &lt;a href=&#34;#how-to-perform-sentiment-and-topic-analysis-for-altmetric-data&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;The public may be talking about your research but what do these conversations mean? Sentiment and topic analysis (STA) are increasingly necessary to determine true research influence at scale.&lt;/p&gt;
+&lt;p&gt;Senior Data Analyst, Stacy Konkiel will demystify sentiment and topic analysis for altmetrics data. Using the free and open source tools anyone can use to perform textual analysis on Altmetric data you will learn how easy it is to get up and running with your own STA projects in minutes.&lt;/p&gt;
+&lt;p&gt;Key learnings from this webinar include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The best practices to ensure your analyses are rigorous and scalable.&lt;/li&gt;
+&lt;li&gt;How you can promote your analyses from lab bench to boardroom with confidence.&lt;/li&gt;
+&lt;li&gt;How to use STA insights to drive decision-making across your organization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;760&#34; height=&#34;415&#34; src=&#34;https://www.gotostage.com/channel/f12ef6e05ed24e10b48a53c70a39e266/recording/1141b51dc756442998995d0e7fd3b89d/watch&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h4 id=&#34;bringing-deeper-insight-to-data-the-role-of-info-pros-in-text-and-data-mining-initiatives&#34;&gt;Bringing Deeper Insight to Data: The Role of Info Pros in Text and Data Mining Initiatives
+  &lt;a href=&#34;#bringing-deeper-insight-to-data-the-role-of-info-pros-in-text-and-data-mining-initiatives&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Text and data mining (TDM) tools and resources are enabling researchers, knowledge workers and information managers to enrich internal and external content, and to discover relationships among a variety of content and across disciplinary fields. Information and knowledge workers can bring unique insights and skills to TDM projects – acquiring and licensing the right tools and content, managing and linking knowledge models, and identifying data silos and specialized resource collections within their enterprise. In this webinar, Mary Ellen Bates will look at how information managers can most impactfully and strategically contribute to TDM initiatives. TDM in Action: Some Springer Nature Use Cases Applications of TDM play an increasingly important role at Springer Nature. The first and most obvious case is how Springer Nature content acts as a high-quality feedstock for TDM applications that empower customer success. Less well known, however, is how Springer Nature itself uses TDM technologies to develop new products and services and enrich existing ones. Some TDM use cases, both beyond and at Springer Nature, will be explored.&lt;/p&gt;
+&lt;p&gt;Presenters: Mary Ellen Bates and Robin Padilla&lt;/p&gt;
+&lt;iframe width=&#34;760&#34; height=&#34;415&#34; src=&#34;https://register.gotowebinar.com/recording/viewRecording/1054965327758892814/4586727519434680327/mlamba@libinfosci.du.ac.in?registrantKey=2774705968250220048&amp;type=ATTENDEEEMAILRECORDINGLINK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Analysis of COVID-19 Research</title>
+      <link>https://manika-lamba.github.io/project/covid-19/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/project/covid-19/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is a pilot project which was analysed and executed in April 2021 to presents the research productivity of AIIMS, New Delhi on &lt;strong&gt;covid-19/coronavirus&lt;/strong&gt; literature using R programming language. The data was retrieved from Web of Science, Scopus, and PubMed databases for the Query = “corona” OR “covid-19” OR “coronavirus” for AIIMS, New Delhi. Metadata for 853 studies were identified from all the three databases which were then merged and removed for duplicates. Additionally, the document type: comment, letter, correction, editorial, editorial material, editorial material-early access, erratum, published erratum, meeting abstract, note, and retracted, were also removed.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;storyboard&lt;/strong&gt; visualizes the results of &lt;em&gt;descriptive analysis, network analysis, and topic modeling&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;dashboard&lt;/strong&gt; shows the &lt;em&gt;topic modeling&lt;/em&gt; results.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Visualizing Topic Models of Indian LIS Research</title>
+      <link>https://manika-lamba.github.io/project/etds/</link>
+      <pubDate>Mon, 27 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/project/etds/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction
+  &lt;a href=&#34;#introduction&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I performed a 
+&lt;a href=&#34;https://zenodo.org/record/1475795#.X-YrudgzYuE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;study&lt;/a&gt; in 2018 to identify the core topics in 98 full-text library and information science Electronic Theses and Dissertations (ETDs) using 
+&lt;a href=&#34;https://code.google.com/archive/p/topic-modeling-tool/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Topic-Modeling-Toolkit&lt;/a&gt; for the period of 2013-2017.&lt;/p&gt;
+&lt;p&gt;The dashboard helps to visualize the topic modeling results of the above study. It was prepared using 
+&lt;a href=&#34;https://www.tableau.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tableau&lt;/a&gt; on 25 December 2020 and was updated on 13 June 2021. The data used to prepare the dashboard is available for download and can be searched using the publication year, topics, and keywords for title.&lt;/p&gt;
+&lt;video class=&#34;video-shortcode&#34; preload=&#34;auto&#34; autoplay loop&gt;
+          &lt;source src=&#34;https://manika-lamba.github.io/media/shodhganga.MOV&#34; type=&#34;video/mp4&#34; width=&#34;640&#34; height=&#34;360&#34; &gt;
+        There should have been a video here but your browser does not seem
+        to support it.
+&lt;/video&gt;
+
+
+
+
+&lt;h2 id=&#34;problems-faced&#34;&gt;Problems Faced
+  &lt;a href=&#34;#problems-faced&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The major caveats in Shodhganga repository that holds back text mining or any kind of analyses are:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;No API&lt;/li&gt;
+&lt;li&gt;Individual Chapter PDFs for each ETD&lt;/li&gt;
+&lt;li&gt;No Abstract for ETDs in the metadata&lt;/li&gt;
+&lt;li&gt;No option to download the metadata&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The above issues will be the major reason for me to not able to update the dashboard frequently as it take months to just download the data! And the above issues do not include the other uncertainties related to metadata! There are many instances where there is no “year” or “advisor” in the metadata of the ETDs. Some ETDs are submitted in Word, some are submitted in PDFs. Again all these issues were covered in my small study which I faced when I analysed this repository. If someone wants to do any analysis, one has to go through each ETD manually which is not possible for analyses that depend on large corpus of data. Until and unless INFLIBNET works on fixing on all the above issues, user experience of using Shodhganga will never be competitive to databases like ProQuest.&lt;/p&gt;
+&lt;p&gt;PS: This study was conducted in 2018 and all these issues have not been fixed till now.&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;dashboard&#34;&gt;Dashboard
+  &lt;a href=&#34;#dashboard&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;div class=&#39;tableauPlaceholder&#39; id=&#39;viz1638054644340&#39; style=&#39;position: relative&#39;&gt;&lt;noscript&gt;&lt;a href=&#39;https:&amp;#47;&amp;#47;manika-lamba.github.io&amp;#47;project&amp;#47;shodhganga&amp;#47;&#39;&gt;&lt;img alt=&#39;Visualization of Topic Modeling Result for ETDs in Shodhganga (2013-2017) &#39; src=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Sh&amp;#47;Shodhganga&amp;#47;Dashboard&amp;#47;1_rss.png&#39; style=&#39;border: none&#39; /&gt;&lt;/a&gt;&lt;/noscript&gt;&lt;object class=&#39;tableauViz&#39;  style=&#39;display:none;&#39;&gt;&lt;param name=&#39;host_url&#39; value=&#39;https%3A%2F%2Fpublic.tableau.com%2F&#39; /&gt; &lt;param name=&#39;embed_code_version&#39; value=&#39;3&#39; /&gt; &lt;param name=&#39;site_root&#39; value=&#39;&#39; /&gt;&lt;param name=&#39;name&#39; value=&#39;Shodhganga&amp;#47;Dashboard&#39; /&gt;&lt;param name=&#39;tabs&#39; value=&#39;no&#39; /&gt;&lt;param name=&#39;toolbar&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;static_image&#39; value=&#39;https:&amp;#47;&amp;#47;public.tableau.com&amp;#47;static&amp;#47;images&amp;#47;Sh&amp;#47;Shodhganga&amp;#47;Dashboard&amp;#47;1.png&#39; /&gt; &lt;param name=&#39;animate_transition&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_static_image&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_spinner&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_overlay&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;display_count&#39; value=&#39;yes&#39; /&gt;&lt;param name=&#39;language&#39; value=&#39;en-US&#39; /&gt;&lt;/object&gt;&lt;/div&gt;                &lt;script type=&#39;text/javascript&#39;&gt;                    var divElement = document.getElementById(&#39;viz1638054644340&#39;);                    var vizElement = divElement.getElementsByTagName(&#39;object&#39;)[0];                    if ( divElement.offsetWidth &gt; 800 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else if ( divElement.offsetWidth &gt; 500 ) { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=(divElement.offsetWidth*0.75)+&#39;px&#39;;} else { vizElement.style.width=&#39;100%&#39;;vizElement.style.height=&#39;1027px&#39;;}                     var scriptElement = document.createElement(&#39;script&#39;);                    scriptElement.src = &#39;https://public.tableau.com/javascripts/api/viz_v1.js&#39;;                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                &lt;/script&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
+
