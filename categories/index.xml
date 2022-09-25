@@ -6,7 +6,34 @@
     <description>Recent content in Categories on Manika Lamba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 31 May 2022 19:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newsletter</title>
+      <link>https://manika-lamba.github.io/categories/newsletter/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/categories/newsletter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2022</title>
+      <link>https://manika-lamba.github.io/categories/2022/</link>
+      <pubDate>Mon, 22 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/categories/2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poster</title>
+      <link>https://manika-lamba.github.io/categories/poster/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/categories/poster/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>webinar</title>
       <link>https://manika-lamba.github.io/categories/webinar/</link>
@@ -22,24 +49,6 @@
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://manika-lamba.github.io/categories/article/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2022</title>
-      <link>https://manika-lamba.github.io/categories/2022/</link>
-      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://manika-lamba.github.io/categories/2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Newsletter</title>
-      <link>https://manika-lamba.github.io/categories/newsletter/</link>
-      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://manika-lamba.github.io/categories/newsletter/</guid>
       <description></description>
     </item>
     
