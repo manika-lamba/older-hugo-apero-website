@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks on Dr. Manika Lamba</title>
+    <link>https://manika-lamba.github.io/talk/</link>
+    <description>Recent content in Talks on Dr. Manika Lamba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 31 Mar 2023 18:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mismatch Finder - Resolving Mismatches in Wikidata’s 100 Million Items</title>
+      <link>https://manika-lamba.github.io/talk/2023-03-31/</link>
+      <pubDate>Fri, 31 Mar 2023 18:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2023-03-31/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2023-03-31/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;In 2023, Wikidata has more than 100 million data items. Even though the Wikidata community has grown rapidly over the past decade with many libraries linking and connecting to Wikidata, not many people know what to do when there are mismatches between their data and Wikidata’s. In this session, we will take a look at how Mismatch Finder plays an essential role for data re-users and how libraries can benefit from identifying these mismatches. The audience will also get to experience the power of Wikibase in other library Linked Open Data projects, with Wikidata sitting at the heart of the ecosystem.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ifla.org/units/sci-tech-libraries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sponsored by IFLA Science &amp;amp; Technology Libraries Section&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Kara Whatley, IFLA STL Professional Development Sub-Committee&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+&lt;h1 id=&#34;presenter-biography&#34;&gt;Presenter Biography
+  &lt;a href=&#34;#presenter-biography&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Alan Ang&lt;/strong&gt; is a Partner Manager at Wikimedia Deutschland. He is responsible for connecting and onboarding global institutions to the Linked Open Data web via Wikidata and Wikibase projects. As a proponent of the 5* Open Data, Alan has given talks at multiple events, promoting open data and free knowledge across the world. He was previously the Advisor to the Prime Minister of the Kyrgyz Republic (until 2020) and promoted open data in various government agencies.&lt;/p&gt;
+&lt;br/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>6th SIG-III International Café</title>
+      <link>https://manika-lamba.github.io/talk/2023-03-16/</link>
+      <pubDate>Thu, 16 Mar 2023 18:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2023-03-16/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2023-03-16/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;SIG-III International Cafe has organized its SIXTH informal meeting to provide these opportunities to all ASIS&amp;amp;T members. We invite all practitioners, faculty and students to join us for an exciting hour and share with us the story behind the languages you speak on 16th March 2023 at 9:30 am EST (Time zone Converter: &lt;a href=&#34;https://dateful.com/time-zone-converter&#34;&gt;https://dateful.com/time-zone-converter&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Leili Seifi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&#34;https://www.asist.org/international-cafe-hour/&#34;&gt;https://www.asist.org/international-cafe-hour/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5th SIG-III International Café</title>
+      <link>https://manika-lamba.github.io/talk/2023-01-12/</link>
+      <pubDate>Thu, 12 Jan 2023 18:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2023-01-12/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2023-01-12/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;SIG-III International Cafe has organized its fifth informal meeting to provide these opportunities to all ASIS&amp;amp;T members. We invite all practitioners, faculty and students to join us for an exciting hour and share with us the story behind the languages you speak on 12th January 2023 at 9:30 am EST (Time zone Converter: &lt;a href=&#34;https://dateful.com/time-zone-converter&#34;&gt;https://dateful.com/time-zone-converter&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Leili Seifi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&#34;https://www.asist.org/international-cafe-hour/&#34;&gt;https://www.asist.org/international-cafe-hour/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Out in the Open - How the Jet Propulsion Laboratory (JPL) Library is Leading Open Science</title>
+      <link>https://manika-lamba.github.io/talk/2022-11-09/</link>
+      <pubDate>Wed, 09 Nov 2022 18:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2022-11-09/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2022-11-09/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;From data to information to knowledge, the Library at NASA’s Jet Propulsion Laboratory has been at the center of the Open and FAIR initiatives for several years. This presentation will highlight activities led by the Library involving Open Data, Code, and Tools (including data governance, DOI minting, metadata, and repository design), Open Access (journal availability and partnering with our Document Review team), and a unique partnership with our Knowledge Office and Office Of the Chief Engineer. Other initiatives such as the Data Citation Community of Practice, Ethical AI, and the Open Science session at the American Geophysical Union 2021 Fall Meeting will also be discussed. There will be plenty of time for questions and comments, because the presenter really wants to hear what YOU are doing around Open Science.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ifla.org/units/sci-tech-libraries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sponsored by IFLA Science &amp;amp; Technology Libraries Section&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Kara Whatley, IFLA STL Professional Development Sub-Committee&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+&lt;h1 id=&#34;presenter-biography&#34;&gt;Presenter Biography
+  &lt;a href=&#34;#presenter-biography&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Caroline Coward&lt;/strong&gt; supervises the daily operations of the Library at NASA’s Jet Propulsion Laboratory, collaborating with and supporting the work of scientists, engineers, and mission specialists across the organization in areas such as internal and external information curation, ML/AI technology initiatives, and data governance and strategy. Caroline holds a Master of Library and Information Science degree from San Jose State University, and she spent the majority of her over 30-year career as a tenured faculty member in higher education coordinating programs in information literacy and High Impact Practices. At JPL, Caroline leads efforts in organizing the Lab’s vast information stores, from physical processing and access, to blockchain applications, information and AI ethics, metadata, taxonomy, and ontology development, to developing new information initiatives Labwide.&lt;/p&gt;
+&lt;br/&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1XlrFCIYkMumhA-W2p0TZiWQWmLRNa-06/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>4th ASIS&amp;T SIG-III Café Meet</title>
+      <link>https://manika-lamba.github.io/talk/2022-06-28/</link>
+      <pubDate>Tue, 28 Jun 2022 19:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2022-06-28/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2022-06-28/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Mark your calendars and save the date for the 4th edition of the SIG III Café International Meet. The theme for our next meet is  LET&amp;rsquo;S CELEBRATE OUR WINS! COME PROMOTE YOUR
+PERSONAL AND PROFESSIONAL LIVES. We thank Prof. Sheila Webber for being the inspiration for this theme and look forward to yet another engaging hour with everyone.&lt;/p&gt;
+&lt;p&gt;Date: Thursday, 28th July 2022
+Time: 7:00 pm IST /9:30 am EST (Timezone Converter:https://dateful.com/time-zone-converter)&lt;/p&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1AJEyeMZM2r1TBbwoCc9gLx_y8FfZLX5c/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Bhakti Gala, Vanessa Reyes&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3rd ASIS&amp;T SIG-III Café Meet</title>
+      <link>https://manika-lamba.github.io/talk/2022-05-31/</link>
+      <pubDate>Tue, 31 May 2022 19:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2022-05-31/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2022-05-31/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;It&amp;rsquo;s summertime and SIG-III is back again with the 3rd Café International Meet. The theme for the upcoming meet is &amp;ldquo;IT&amp;rsquo;S SUMMER, LET&amp;rsquo;S CONNECT!!&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;We invite you to come by and share your current interests, pursuit of new skills &amp;amp; hobbies, books/articles you plan to read or are reading, projects you are working on, conferences attended or planning to attend&amp;hellip;anything that you would like to share or talk about.&lt;/p&gt;
+&lt;p&gt;ALL INFORMAL CONVERSATIONS ARE WELCOME!&lt;/p&gt;
+&lt;p&gt;Save the date: 31st May 2022
+Time: 7:00 pm IST / 9:30 am EST (Timezone Converter:https://dateful.com/time-zone-converter)&lt;/p&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1J4XPy44G1PoTGjkOMzsLofRvQCYBjuhm/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Bhakti Gala, Vanessa Reyes&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Topic Modeling with R</title>
+      <link>https://manika-lamba.github.io/talk/2022-04-27/</link>
+      <pubDate>Wed, 27 Apr 2022 12:45:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2022-04-27/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2022-04-27/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1XlrFCIYkMumhA-W2p0TZiWQWmLRNa-06/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2nd ASIS&amp;T SIG-III Café Meet</title>
+      <link>https://manika-lamba.github.io/talk/2022-03-17/</link>
+      <pubDate>Thu, 17 Mar 2022 19:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2022-03-17/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2022-03-17/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;SIG-III is back again with the 2nd Café International Meet. The theme for the upcoming meet is &lt;strong&gt;&amp;ldquo;Let&amp;rsquo;s Connect Through Games: Building Your Network in the Digital Era&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;With many games planned, we invite everyone to join us for the fun filled moments. Planned exclusively for you, the success of the event relies on your participation in large numbers. The more attendees the more fun we will have.&lt;/p&gt;
+&lt;p&gt;Save the date: Thursday, March 17, 2022 at 7:00 PM IST
+Join us through Zoom using the link: &lt;a href=&#34;https://tinyurl.com/2p92yanb&#34;&gt;https://tinyurl.com/2p92yanb&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Looking forward to meeting everyone!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Bhakti Gala, Vanessa Reyes&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Health Information Literacy - Content Creation during the COVID Infodemic</title>
+      <link>https://manika-lamba.github.io/talk/2022-02-05/</link>
+      <pubDate>Sat, 05 Feb 2022 18:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2022-02-05/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2022-02-05/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;As the third wave of COVID-19 surges on in different parts of the globe, human society is faced with an onslaught of information related to all aspects of COVID-19. The World Health Organization defines an infodemic as “too much information including false or misleading information in digital and physical environments during a disease outbreak.” Accurate health information will play a critical role in this global fight against the pandemic. Lifesaving decisions need to be taken by individuals to questions like:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Should I take the vaccine or not?&lt;/li&gt;
+&lt;li&gt;How seriously should I follow the COVID-19 protocols?&lt;/li&gt;
+&lt;li&gt;Should I believe all the forwarded content was shared with me?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Everyone is going to take her/his/their decisions based on how convinced they are with the information searched, found, and read by them. In this context, the panel of speakers will share their experiences in creating health-related content. Librarians and information professionals will play a significant role in this health informatics battle.&lt;/p&gt;
+&lt;p&gt;Panelists from five different Asian countries will discuss challenges, strategies and training adopted and imparted for creating accurate and authoritative content. We will share the training imparted to create awareness among primary and secondary students to create and share content. This panel will further address the global challenges of creating multilingual content in forms that are easily accessible and understandable.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ifla.org/units/sci-tech-libraries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sponsored by IFLA Science &amp;amp; Technology Libraries Section&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Kara Whatley, IFLA STL Professional Development Sub-Committee&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+&lt;h1 id=&#34;presenter-biographies&#34;&gt;Presenter Biographies
+  &lt;a href=&#34;#presenter-biographies&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Dr. Syeda Hina Batool is an Assistant Professor at the Institute of Information Management, University of the Punjab, New Campus, Lahore, Pakistan. She has done her Ph.D. from iSchool, University of Sheffield, UK. Her research interests focus on examining information literacy instruction and related literacies (health, digital, workplace, visual, media, etc.), through a qualitative research lens.&lt;/p&gt;
+&lt;p&gt;Dr. Sam Chu is an Associate Professor at the Faculty of Education, The University of Hong Kong (HKU). Dr. Sam has obtained 2 PhDs in Education each in e-Learning from University College London, UK &amp;amp; the second Ph.D. in Library and Information Science from the University of Hong Kong. His research interests are AI literacy, gamified learning &amp;amp; 21st Century Skills, social media in education, digital literacies, school and academic librarianship, Knowledge Management, and Intellectual Capital.&lt;/p&gt;
+&lt;p&gt;Dr. Bhakti Gala is an Assistant Professor at the School of Library and Information Science at the Central University of Gujarat, India. She has received her Ph.D. degree in Library and Information Science from the Maharaja Sayajirao University of Baroda, India. She is currently heading a health informatics project on “Dealing with COVID-19 and saving people’s lives in South Asia (SA) areas &amp;amp; beyond – A health informatics promotion project’ funded by the Association of Information Science and Technology (ASIS&amp;amp;T, USA). Her areas of research are Information Literacy, Equitable access to information, Digital Libraries, Metadata and Authority Control, Open Access, and Open Content.&lt;/p&gt;
+&lt;p&gt;Dr. Md. Anwarul Islam is an Associate Professor of Information Science &amp;amp; Library Management at the University of Dhaka, Bangladesh. He received his Ph.D. from the School of Knowledge Science, JAIST, Japan. His research areas are Infometrics, Information Literacy, Information seeking behavior, cloud computing in teaching and learning, social media, and Knowledge Management.&lt;/p&gt;
+&lt;p&gt;Prasadi Kanchana Jayasekara is working as a Senior Assistant Librarian at the University of Ruhuna, Sri Lanka. She is currently reading her doctoral degree in Information Systems at the Business School, University of Auckland, New Zealand. She received her B.Sc. degree in Agriculture from the Faculty of Agriculture, University of Ruhuna, Sri Lanka, and a Master’s degree in Library and Information Science from the National Institute of Library and Information Science, University of Colombo, Sri Lanka. Her research interests include social media – information behavior, altmetrics, and information literacy.&lt;/p&gt;
+
+
+
+
+&lt;h1 id=&#34;moderator-biography&#34;&gt;Moderator Biography
+  &lt;a href=&#34;#moderator-biography&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Dr. Debal Chandra Kar is serving as University Librarian at Galgotias University. Previously he worked at Dr. B. R. Ambedkar University Delhi (2011-2021) as University Librarian, The Energy and Resources Institute (TERI), New Delhi as a Fellow and other different positions (1986-2011) including TERI University as University Librarian (2001-2005). He has been privileged to receive a number of awards recognizing his achievements like SLA Fellow (USA), SLA Bonnie Hilditch International Science &amp;amp; Technology Librarian Award 2008, SLA Presidential Citation Award 2008, SLA Proquest Dialog Member Achievement Award 2011, SLA-S&amp;amp;T Librarian Achievement Award 2011, and SLA-PAM Special International Librarian award 2018, from the Special Libraries Association USA. He was the founder-editor of World Digital Libraries – an International journal (2008-2012). He served as president of SLA Asian Community/Chapter in 2008, 2017, and 2021. He is Vice-Chair of the IFLA Regional Division Committee – Asia and Oceania 2021-2023 and IFLA Social Science Libraries Section Standing Committee 2021-2025 member.&lt;/p&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1F7NzDmdQflcjvKueAqW1a5YSfE0X_4R-/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>1st ASIS&amp;T SIG-III Café Meet</title>
+      <link>https://manika-lamba.github.io/talk/2022-01-20/</link>
+      <pubDate>Thu, 20 Jan 2022 19:30:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2022-01-20/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2022-01-20/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Are you looking for an opportunity to vent out your stress?&lt;/li&gt;
+&lt;li&gt;Would you like to seek professional guidance from our community members?&lt;/li&gt;
+&lt;li&gt;How about a space for having a relaxing and friendly conversation?&lt;/li&gt;
+&lt;li&gt;Would you like an opportunity to seek guidance to help you out through a difficult situation?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;SIG-III International Café has organized its first informal meeting to provide these opportunities to all its members. We invite all practitioners, faculty and students to join us with your favorite drink on 20th January 2022 at 7:30 pm IST (Timezone Converter:https://dateful.com/time-zone-converter)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Bhakti Gala, Vanessa Reyes&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/14pfsQzYkUlNmBJV3adGITp5RP-XA76H9/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acceleration of Health Information Literacy</title>
+      <link>https://manika-lamba.github.io/talk/2021-12-18/</link>
+      <pubDate>Sat, 18 Dec 2021 17:30:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2021-12-18/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2021-12-18/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The South Asia Chapter is pleased to announce the webinar on &amp;ldquo;Acceleration of Health Information Literacy: Preparing Multi-Lingual COVID-19 Contents for South Asia Region” to be jointly organized with the Department of Information Science and Library Management, University of Dhaka. The webinar was held on 18th December 2021 at 5:30 PM IST via Zoom.&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;presenters&#34;&gt;Presenters
+  &lt;a href=&#34;#presenters&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Professor Dr. Md. Akhtaruzzaman, Honourable Vice-Chancellor, University of Dhaka graced the occasion as Chief Guest. Professor Dr. Md. Nasiruddin Munshi, Department of Information Science and Library Management &amp;amp; Librarian (In-Charge) of Dhaka University Library presented as Special Guest.&lt;/p&gt;
+&lt;p&gt;The keynote paper was presented by Dr. Samuel K. W. Chu, Associate Professor, Faculty of Education, University of Hong Kong. Professor Dr. S. M. Zabed Ahmed, Department of Information Science and Library Management, University of Dhaka lead the discussion with Professor Dr. Md. Shiful Islam (Chairman of ISLM Department, DU), Dr. Dilara Begum (Chairman, Department of Information Studies and Library Management, East-West University), A.K.M. Eamin Ali Akanda (Chairman of ISLM Department, RU) and Razina Alam (Head of Library), Bangladesh Shishu Academy.&lt;/p&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1ddlK8E9SGqM0Q23Z_xTI9uPC6tLMxRBN/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Carpentries &amp; Author Carpentry</title>
+      <link>https://manika-lamba.github.io/talk/2021-12-15/</link>
+      <pubDate>Wed, 15 Dec 2021 04:30:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2021-12-15/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2021-12-15/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This webinar will provide a brief introduction to The Carpentries instructional philosophy of researcher-to-researcher computational training. We’ll then discuss Author Carpentry, an independent set of modules that can be integrated into a Carpentries Workshops or taught as an independent curriculum. They cover topics not traditionally included in a Carpentry Workshop, such as open authorship, writing in standard formats like Markdown, creating a reproducible and interactive report in RStudio, digital object identifiers, and ORCID IDs. We’ll discuss the future of Author Carpentry and ways you can be involved in the development of this open curriculum.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ifla.org/units/sci-tech-libraries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sponsored by IFLA Science &amp;amp; Technology Libraries Section&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba (Chair) and Kara Whatley, IFLA STL Professional Development Sub-Committee&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;presenters-biography&#34;&gt;Presenters Biography
+  &lt;a href=&#34;#presenters-biography&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Tom Morrell is the Research Data Specialist at Caltech Library. He manages the CaltechDATA institutional repository for research data and software, and helps Caltech researchers share their results with the world. Tom has been a certified Carpentry instructor for five years and taught numerous Software and Data Carpentry Workshops. Tom also helped create the Author Carpentry curriculum and has taught Author Carpentry lessons at Caltech and the FORCE 11 Scholarly Communication Institute (FSCI). Tom has a background in computational chemistry and brings a researcher-focused perspective to his work.&lt;/p&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/11P71cRQs3HgZsKQuPzxOOGAyIlWuMIKD/preview&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>5th Library Technology Conclave (LTC2021)​​</title>
+      <link>https://manika-lamba.github.io/talk/2021-01-30/</link>
+      <pubDate>Sat, 30 Jan 2021 10:30:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2021-01-30/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2021-01-30/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;I was invited as a discussant to the “Social Media Research” session at 5th Library Technology Conclave (LTC2021)​​. This section consists of two short videos where you will get answers to the two questions I asked during the session.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Question 1 : How to overcome major biases in social media research data?&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://youtube.com/embed/alnXjR_-OB8&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Question 2 : Is there any ethical framework for social media research?&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe src=&#34;https://youtube.com/embed/rYmGZCitCOk&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
+

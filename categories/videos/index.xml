@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>videos on Dr. Manika Lamba</title>
+    <link>https://manika-lamba.github.io/categories/videos/</link>
+    <description>Recent content in videos on Dr. Manika Lamba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/categories/videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Educational Videos</title>
+      <link>https://manika-lamba.github.io/project/videos/</link>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/project/videos/</guid>
+      <description>&lt;p&gt;I have published few videos on my YouTube channel for teaching computational techniques (like topic modeling, text mining, predictive modeling), R, LaTex, and Reproducible Research. They are summarized as below:&lt;/p&gt;
+
+
+
+
+&lt;h3 id=&#34;text-mining&#34;&gt;Text Mining
+  &lt;a href=&#34;#text-mining&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;A short introductory video on text mining for libraries.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/REQj4PNlaHw&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;topic-modeling&#34;&gt;Topic Modeling
+  &lt;a href=&#34;#topic-modeling&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;(a) This video gives a theoretical framework for topic modeling based on latent Dirichlet allocation (LDA) with a special reference to ETDs and libraries.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/o2UyHXJx-Vk&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;(b) This video provides hands-on training on performing and visualizing topic modeling based on Latent Dirichlet Allocation using R. Shodhganga is an open-access repository, so you can download ETDs from it for free and analyse it! You can download the theses in any subject you want from its website - &lt;a href=&#34;https://shodhganga.inflibnet.ac.in&#34;&gt;https://shodhganga.inflibnet.ac.in&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/WcMnKg9IpgY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;(c) Topic-Modeling-Tool is a graphical user interface tool for topic modeling based on Latent Dirichlet Allocation (LDA). It uses MALLET at the back-end to analyze large volumes of unlabeled text. A “topic” consists of a cluster of words that frequently occur together. Using contextual clues, topic models can connect words with similar meanings and distinguish between uses of words with multiple meanings.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/v5u_239E1_4&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;predictive-modelingmachine-learning&#34;&gt;Predictive Modeling/Machine Learning
+  &lt;a href=&#34;#predictive-modelingmachine-learning&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;A short introductory video on prediction modeling (also known as supervised machine learning or predictive modeling).&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/cIUjznRFZc0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;learn-basic-analytics-techniques-using-r&#34;&gt;Learn basic analytics techniques using R
+  &lt;a href=&#34;#learn-basic-analytics-techniques-using-r&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;This video shows the conversion of documents from .pdf to .txt format in R. Link to download XpdfReader: &lt;a href=&#34;https://www.xpdfreader.com/download.html&#34;&gt;https://www.xpdfreader.com/download.html&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/w07LlBFrMCY&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;reproduce-your-research-using-binder--rstudio--jupyter-notebook&#34;&gt;Reproduce Your Research Using BINDER | RStudio | Jupyter Notebook
+  &lt;a href=&#34;#reproduce-your-research-using-binder--rstudio--jupyter-notebook&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+
+
+
+
+&lt;h5 id=&#34;from-zero-to-binder-in-r&#34;&gt;From Zero to Binder in R!
+  &lt;a href=&#34;#from-zero-to-binder-in-r&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Binder is a service that provides your code and the hardware and software to execute it. You can create a link to a live, interactive version of your code!&lt;/p&gt;
+
+
+
+
+&lt;h5 id=&#34;running-code-is-more-complicated-than-displaying-code&#34;&gt;Running Code is more complicated than Displaying Code
+  &lt;a href=&#34;#running-code-is-more-complicated-than-displaying-code&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;GitHub is a great service for sharing code, but the contents are static. How could you run a GitHub repository without installing complicated requirements? Or even in your browser?&lt;/p&gt;
+
+
+
+
+&lt;h5 id=&#34;to-run-code-you-need&#34;&gt;To run code, you need:
+  &lt;a href=&#34;#to-run-code-you-need&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Hardware on which to run the code&lt;/li&gt;
+&lt;li&gt;Software, including:
+&lt;ul&gt;
+&lt;li&gt;The code itself&lt;/li&gt;
+&lt;li&gt;The programming language (e.g. Python, R, Julia, and so on)&lt;/li&gt;
+&lt;li&gt;Relevant packages (e.g. pandas, matplotlib, tidyverse, ggplot)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h5 id=&#34;why-did-the-repo-have-to-be-public&#34;&gt;Why did the repo have to be public?
+  &lt;a href=&#34;#why-did-the-repo-have-to-be-public&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;mybinder.org cannot access private repositories as this would require a secret token. The Binder team choose not to take on the responsibility of handling secret tokens as mybinder.org is a public service and proof of technological concept. If accessing private repositories is a feature you/your team need, we advise that you look into building your own BinderHub.&lt;/p&gt;
+
+
+
+
+&lt;h5 id=&#34;whats-happening-in-the-background&#34;&gt;What’s happening in the background?
+  &lt;a href=&#34;#whats-happening-in-the-background&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;While you wait, BinderHub (the backend of Binder) is:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fetching your repo from GitHub&lt;/li&gt;
+&lt;li&gt;Analysing the contents&lt;/li&gt;
+&lt;li&gt;Creating a Docker file based on your repo&lt;/li&gt;
+&lt;li&gt;Launching that Docker image in the Cloud&lt;/li&gt;
+&lt;li&gt;Connecting you to it via your browser&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h5 id=&#34;sharing-your-work&#34;&gt;Sharing your Work
+  &lt;a href=&#34;#sharing-your-work&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;p&gt;Binder is all about sharing your work easily by sharing the URL directly or click on the badge.&lt;/p&gt;
+
+
+
+
+&lt;h5 id=&#34;links&#34;&gt;Links
+  &lt;a href=&#34;#links&#34;&gt;&lt;/a&gt;
+&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Link to the Template: &lt;a href=&#34;https://github.com/binder-examples/r&#34;&gt;https://github.com/binder-examples/r&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link to Convert the repositories with Jupyter Notebook directly: &lt;a href=&#34;https://mybinder.org/&#34;&gt;https://mybinder.org/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Link to my Github Repository for this video: &lt;a href=&#34;https://github.com/manika-lamba/youtube_lda&#34;&gt;https://github.com/manika-lamba/youtube_lda&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/SGPwBNoDQaA&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;build-academic-cvresume-in-overleaf&#34;&gt;Build Academic CV/Resume in Overleaf
+  &lt;a href=&#34;#build-academic-cvresume-in-overleaf&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Learn how to make an academic CV/Resume using LaTex open-source software — Overleaf.&lt;/p&gt;
+&lt;p&gt;Guide to Overleaf: &lt;a href=&#34;https://www.overleaf.com/learn/latex/Bold,_italics_and_underlining&#34;&gt;https://www.overleaf.com/learn/latex/Bold,_italics_and_underlining&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Link of the template used in the video: &lt;a href=&#34;https://www.overleaf.com/latex/templates/prometheuscv/hhkdyvbtvhsq&#34;&gt;https://www.overleaf.com/latex/templates/prometheuscv/hhkdyvbtvhsq&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7KNWbqLS_10&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h3 id=&#34;curated-videos&#34;&gt;Curated Videos
+  &lt;a href=&#34;#curated-videos&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+
+
+
+
+&lt;h4 id=&#34;visualising-altmetric-data-in-tableau&#34;&gt;Visualising Altmetric data in Tableau
+  &lt;a href=&#34;#visualising-altmetric-data-in-tableau&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;In this video, Senior Data Analyst Stacy Konkiel teach you how to use the free tool, Tableau Public, to visualise Altmetric data and inform your organisation’s publishing and engagement strategies.&lt;/p&gt;
+&lt;p&gt;Key learnings from this webinar include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The nuts and bolts of building informative Altmetric data visualisations in Tableau Public&lt;/li&gt;
+&lt;li&gt;The best data visualisation techniques to effectively illustrate research influence&lt;/li&gt;
+&lt;li&gt;How to visualise data to encourage responsible use of metrics&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;760&#34; height=&#34;415&#34; src=&#34;https://ds.digital-science.com/e/533712/741bcd849-watch-source-CHANNEL/9pzn96/1074669113?h=vgKogXf2C6hiI4OQeCj6f8PPVEBpStt6n4ZKRAU0GNQ&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h4 id=&#34;how-to-perform-sentiment-and-topic-analysis-for-altmetric-data&#34;&gt;How to Perform Sentiment and Topic Analysis for Altmetric Data
+  &lt;a href=&#34;#how-to-perform-sentiment-and-topic-analysis-for-altmetric-data&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;The public may be talking about your research but what do these conversations mean? Sentiment and topic analysis (STA) are increasingly necessary to determine true research influence at scale.&lt;/p&gt;
+&lt;p&gt;Senior Data Analyst, Stacy Konkiel will demystify sentiment and topic analysis for altmetrics data. Using the free and open source tools anyone can use to perform textual analysis on Altmetric data you will learn how easy it is to get up and running with your own STA projects in minutes.&lt;/p&gt;
+&lt;p&gt;Key learnings from this webinar include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The best practices to ensure your analyses are rigorous and scalable.&lt;/li&gt;
+&lt;li&gt;How you can promote your analyses from lab bench to boardroom with confidence.&lt;/li&gt;
+&lt;li&gt;How to use STA insights to drive decision-making across your organization.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe width=&#34;760&#34; height=&#34;415&#34; src=&#34;https://www.gotostage.com/channel/f12ef6e05ed24e10b48a53c70a39e266/recording/1141b51dc756442998995d0e7fd3b89d/watch&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+
+
+
+&lt;h4 id=&#34;bringing-deeper-insight-to-data-the-role-of-info-pros-in-text-and-data-mining-initiatives&#34;&gt;Bringing Deeper Insight to Data: The Role of Info Pros in Text and Data Mining Initiatives
+  &lt;a href=&#34;#bringing-deeper-insight-to-data-the-role-of-info-pros-in-text-and-data-mining-initiatives&#34;&gt;&lt;/a&gt;
+&lt;/h4&gt;
+&lt;p&gt;Text and data mining (TDM) tools and resources are enabling researchers, knowledge workers and information managers to enrich internal and external content, and to discover relationships among a variety of content and across disciplinary fields. Information and knowledge workers can bring unique insights and skills to TDM projects – acquiring and licensing the right tools and content, managing and linking knowledge models, and identifying data silos and specialized resource collections within their enterprise. In this webinar, Mary Ellen Bates will look at how information managers can most impactfully and strategically contribute to TDM initiatives. TDM in Action: Some Springer Nature Use Cases Applications of TDM play an increasingly important role at Springer Nature. The first and most obvious case is how Springer Nature content acts as a high-quality feedstock for TDM applications that empower customer success. Less well known, however, is how Springer Nature itself uses TDM technologies to develop new products and services and enrich existing ones. Some TDM use cases, both beyond and at Springer Nature, will be explored.&lt;/p&gt;
+&lt;p&gt;Presenters: Mary Ellen Bates and Robin Padilla&lt;/p&gt;
+&lt;iframe width=&#34;760&#34; height=&#34;415&#34; src=&#34;https://register.gotowebinar.com/recording/viewRecording/1054965327758892814/4586727519434680327/mlamba@libinfosci.du.ac.in?registrantKey=2774705968250220048&amp;type=ATTENDEEEMAILRECORDINGLINK&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
+

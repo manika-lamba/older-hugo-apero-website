@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference Paper on Dr. Manika Lamba</title>
+    <link>https://manika-lamba.github.io/categories/conference-paper/</link>
+    <description>Recent content in Conference Paper on Dr. Manika Lamba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/categories/conference-paper/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Text Analysis of ETDs in ProQuest Dissertations and Theses (PQDT) Global (2016-2018)</title>
+      <link>https://manika-lamba.github.io/publication/11/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/publication/11/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+  &lt;a href=&#34;#abstract&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The information explosion in the form of ETDs poses the challenge of management and extraction of appropriate knowledge for decision making. Thus, the present study forwards a solution to the above problem by applying topic mining and prediction modeling tools to full-text 263 ETDs submitted to the PQDT Global database during 2016-18 in the field of library science. This study was divided into two phases. The first phase determined the core topics from the ETDs using Topic-Modeling-Tool (TMT), which was based on latent dirichlet allocation (LDA), whereas the second phase employed prediction analysis using RapidMiner platform to annotate the future research articles on the basis of the modeled topics. The core topics (tags) for the studied period were found to be book history, school librarian, public library, communicative ecology, and informatics followed by text network and trend analysis on the high probability co-occurred words. Lastly, a prediction model using the Support Vector Machine (SVM) classifier was created in order to accurately predict the placement of future ETDs going to be submitted to PQDT Global under the five modeled topics (a to e). The tested dataset against the trained data set for the predictive performed perfectly.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Metadata Tagging of Library and Information Science Theses Shodhganga (2013-2017)</title>
+      <link>https://manika-lamba.github.io/publication/5/</link>
+      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/publication/5/</guid>
+      <description>
+
+
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+  &lt;a href=&#34;#abstract&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Electronic Theses and Dissertations (ETDs) poses the challenge of managing and extraction of appropriate knowledge for decision making. To tackle the same, topic modeling was first applied to Library and Information Science (LIS) theses submitted to Shodhganga (an Indian ETDs digital repository) to determine the five core topics/tags and then the performance of the built model based on those topics/tags were analyzed. Using a Latent Dirichlet Allocation based Topic-Modeling-Toolkit, the five core topics were found to be information literacy, user studies, scientometrics, library resources and library services for the epoch 2013-2017 and consequently all the theses were summarized with the presence of their respective topic proportion for the tags/topics. A Support Vector Machine (Linear) prediction model using RapidMiner toolbox was created and showed 88.78% accuracy with 0.85 kappa value.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Marketing of LIS Products and Services in Select Medical Libraries of Delhi in Digital Environment: A Comparative Study</title>
+      <link>https://manika-lamba.github.io/publication/3/</link>
+      <pubDate>Mon, 06 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/publication/3/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;1&#34;&gt;&lt;/p&gt;
+
+
+
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+  &lt;a href=&#34;#abstract&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This article deals with the need of marketing of library products and services in medical libraries in the digital environment. It analyses the data collected from the two major medical libraries of India using GNU PSPP software and draw comparison among their marketing strategies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
+
