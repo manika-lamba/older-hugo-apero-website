@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>course on Dr. Manika Lamba</title>
+    <link>https://manika-lamba.github.io/categories/course/</link>
+    <description>Recent content in course on Dr. Manika Lamba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/categories/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>M-108 Information Storage and Retrieval System</title>
+      <link>https://manika-lamba.github.io/courses/m-108/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/courses/m-108/</guid>
+      <description>
+
+
+
+&lt;h2 id=&#34;about-the-course&#34;&gt;ABOUT THE COURSE
+  &lt;a href=&#34;#about-the-course&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;This webpage contains Slides, Recorded Live Videos, Quizzes, &amp;amp; Reading Material for Paper M-108 taught for MLIS course at the School of Open Learning, University of Delhi.&lt;/p&gt;
+
+
+
+
+&lt;h3 id=&#34;week-1httpsgithubcommanika-lambasoltreemain7_may_2023&#34;&gt;
+&lt;a href=&#34;https://github.com/manika-lamba/SOL/tree/main/7_May_2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Week 1&lt;/a&gt;
+  &lt;a href=&#34;#week-1httpsgithubcommanika-lambasoltreemain7_may_2023&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://manika-lamba.github.io/SOL/7_May_2023/#/title-slide&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.youtube.com/embed/toZX2bLmY0E&#34; title=&#34;Day 1 Lecture&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://github.com/manika-lamba/SOL/blob/main/7_May_2023/quiz/Quiz-1.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Quiz&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Reading Material&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/manika-lamba/SOL/blob/main/7_May_2023/reading-material/Introduction-to-Information-Retrieval.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to Information Retrieval&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/manika-lamba/SOL/blob/main/7_May_2023/reading-material/Basic-Concepts-Components-IR.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Basic Concepts and Components of Information Retrieval Systems&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h3 id=&#34;week-2httpsgithubcommanika-lambasoltreemain14_may_2023&#34;&gt;
+&lt;a href=&#34;https://github.com/manika-lamba/SOL/tree/main/14_May_2023&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Week 2&lt;/a&gt;
+  &lt;a href=&#34;#week-2httpsgithubcommanika-lambasoltreemain14_may_2023&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;hr&gt;
+
+
+
+
+&lt;h2 id=&#34;compulsary-reading&#34;&gt;COMPULSARY READING
+  &lt;a href=&#34;#compulsary-reading&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://archive.org/details/introductiontomo0000chow/mode/2up?view=theater&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Introduction to modern information retrieval by G G Chowdhury&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+
+
+
+&lt;h2 id=&#34;previous-year-question-papers&#34;&gt;PREVIOUS YEAR QUESTION PAPERS
+  &lt;a href=&#34;#previous-year-question-papers&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/manika-lamba/SOL/blob/main/questions-papers/2021.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2021&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/manika-lamba/SOL/blob/main/questions-papers/2020.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://github.com/manika-lamba/SOL/blob/main/questions-papers/2015-2019.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;2015-2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+
+
+
+&lt;h2 id=&#34;syllabus&#34;&gt;SYLLABUS
+  &lt;a href=&#34;#syllabus&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+
+
+&lt;h3 id=&#34;unit--i-fundamental-concepts&#34;&gt;UNIT – I: Fundamental Concepts
+  &lt;a href=&#34;#unit--i-fundamental-concepts&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Concept, Characteristics, Objectives, Types, Operations and Design&lt;/li&gt;
+&lt;li&gt;Compatibility of ISAR System&lt;/li&gt;
+&lt;li&gt;Information Retrieval Process and Search Strategy&lt;/li&gt;
+&lt;li&gt;Evaluation of ISAR System&lt;/li&gt;
+&lt;li&gt;Vocabulary Control Tools: Classification Schedules, Subject Heading Lists and Thesaurus&lt;/li&gt;
+&lt;li&gt;Need, Structure and Construction of Thesaurus&lt;/li&gt;
+&lt;li&gt;Principles and Evolution of Bibliographic Description&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h3 id=&#34;unit--ii-knowledge-management&#34;&gt;UNIT – II: Knowledge Management
+  &lt;a href=&#34;#unit--ii-knowledge-management&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Indexing Systems&lt;/li&gt;
+&lt;li&gt;Introduction to Indexing in Corporate System&lt;/li&gt;
+&lt;li&gt;Introduction to Indexing in Research System&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h3 id=&#34;unit--iii-bibliographic-description&#34;&gt;UNIT – III: Bibliographic Description
+  &lt;a href=&#34;#unit--iii-bibliographic-description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Rules for Bibliographic Description&lt;/li&gt;
+&lt;li&gt;Standards for Bibliographic Record Formats&lt;/li&gt;
+&lt;li&gt;Metadata Concept&lt;/li&gt;
+&lt;li&gt;Metadata Standards: Dublin Core, MARC 21, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+&lt;h3 id=&#34;unit--iv-search-techniques-and-information-retrieval&#34;&gt;UNIT – IV: Search Techniques and Information Retrieval
+  &lt;a href=&#34;#unit--iv-search-techniques-and-information-retrieval&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Man and Machine Retrieval System&lt;/li&gt;
+&lt;li&gt;Search Strategies: Boolean Operations, Proximity Search, Heuristic Search, Navigational Search, etc.&lt;/li&gt;
+&lt;li&gt;Internet Searching and Meta Search Engines&lt;/li&gt;
+&lt;li&gt;Data Mining, Data Harvesting and Semantic Web&lt;/li&gt;
+&lt;li&gt;Knowledge Management Retrieval&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
+
