@@ -6,7 +6,27 @@
     <description>Recent content in Publications on Dr. Manika Lamba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring OCR Errors in Full-Text Large Documents: A Study of LIS Theses and Dissertations</title>
+      <link>https://manika-lamba.github.io/publication/26/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/publication/26/</guid>
+      <description>
+
+
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+  &lt;a href=&#34;#abstract&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The accuracy of OCR output for text mining and NLP analyses of large text documents can be impacted by errors that occur during the OCR process. The methodology involves retrieving electronic theses and dissertations (ETDs) for LIS discipline from the ProQuest Dissertations and Theses Global database and manually reviewing the full-text ETDs for OCR problems associated with the conversion of PDF files into plain text format. The study examines the factors that impact the quality of OCR output, including the quality of the original document. The findings show that five major types of scanning problems in PDFs were identified that caused OCR errors like joining of words, misspellings, space between words, insertion of random characters, hyphenation, and formatting. To avoid these errors, it is important to use high-quality scanned documents published from the 1920s to the 1970s. Further research could focus on improving the accuracy of OCR technology for large-text documents published before the 1980s.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>How to better engage with ASIS&amp;T members? Lessons learned from SIG-III activities during the COVID-19 pandemic</title>
       <link>https://manika-lamba.github.io/publication/24/</link>

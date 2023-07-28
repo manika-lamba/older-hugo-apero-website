@@ -6,11 +6,95 @@
     <description>Recent content on Dr. Manika Lamba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 May 2023 18:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://manika-lamba.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exploring OCR Errors in Full-Text Large Documents: A Study of LIS Theses and Dissertations</title>
+      <link>https://manika-lamba.github.io/publication/26/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/publication/26/</guid>
+      <description>
+
+
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract
+  &lt;a href=&#34;#abstract&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;The accuracy of OCR output for text mining and NLP analyses of large text documents can be impacted by errors that occur during the OCR process. The methodology involves retrieving electronic theses and dissertations (ETDs) for LIS discipline from the ProQuest Dissertations and Theses Global database and manually reviewing the full-text ETDs for OCR problems associated with the conversion of PDF files into plain text format. The study examines the factors that impact the quality of OCR output, including the quality of the original document. The findings show that five major types of scanning problems in PDFs were identified that caused OCR errors like joining of words, misspellings, space between words, insertion of random characters, hyphenation, and formatting. To avoid these errors, it is important to use high-quality scanned documents published from the 1920s to the 1970s. Further research could focus on improving the accuracy of OCR technology for large-text documents published before the 1980s.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>8th SIG-III International Café</title>
+      <link>https://manika-lamba.github.io/talk/2023-07-13/</link>
+      <pubDate>Thu, 13 Jul 2023 19:00:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2023-07-13/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2023-07-13/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Are you looking for an opportunity to know about how women LIS professionals overcome
+personal and professional challenges?&lt;/p&gt;
+&lt;p&gt;Would you like to learn about successful LIS Women&amp;rsquo;s stories?&lt;/p&gt;
+&lt;p&gt;How about a space for having a relaxing and friendly conversation?&lt;/p&gt;
+&lt;p&gt;SIG-III International Cafe has organized its EIGHTH informal meeting to provide these opportunities to all ASIS&amp;amp;T members. We invite all practitioners, faculty and students to join us for an exciting hour and share with us the story behind the languages you speak on 13th July 2023 at 9:30 am EST (Time zone Converter: &lt;a href=&#34;https://dateful.com/time-zone-converter&#34;&gt;https://dateful.com/time-zone-converter&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Leili Seifi&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Website: &lt;a href=&#34;https://www.asist.org/international-cafe-hour/&#34;&gt;https://www.asist.org/international-cafe-hour/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Text and Data Mining Work at Virginia Tech University Libraries</title>
+      <link>https://manika-lamba.github.io/talk/2023-06-20/</link>
+      <pubDate>Tue, 20 Jun 2023 19:30:00 +0000</pubDate>
+      
+      <guid>https://manika-lamba.github.io/talk/2023-06-20/</guid>
+      <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2023-06-20/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
+
+
+
+
+&lt;h2 id=&#34;description&#34;&gt;Description
+  &lt;a href=&#34;#description&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Virginia Tech University Libraries have been providing Text and Data Mining (TDM) support within the recent years in multiple ways. TDM work has incorporated many individuals from faculty, students, and librarians, Through a panel of experts, this webinar will describe how TDM work and awareness was established in Virginia Tech’s University Libraries, how students were involved, and how faculty have been involved. The panel discussion will include projects related to the analysis of open access articles in health science, how to identify unique language descriptors from whiskey reviews, implementing TDM in digital humanities, and how the establishment of a committee supports TDM related activities within the library.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.ifla.org/units/sci-tech-libraries/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Sponsored by IFLA Science &amp;amp; Technology Libraries Section&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Organizers: Manika Lamba, Kara Whatley, IFLA STL Professional Development Sub-Committee&lt;/strong&gt;&lt;/p&gt;
+
+
+
+
+&lt;h1 id=&#34;presenter-biography&#34;&gt;Presenter Biography
+  &lt;a href=&#34;#presenter-biography&#34;&gt;&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;Dr. Anne M. Brown is an Assistant Professor in Research and Informatics, University Libraries, Virginia Tech and an affiliate faculty member in the Department of Biochemistry and Academy of Integrated Science. She collaborates and assists researchers and students (grad and undergrad) involving the integration of computational thinking and discipline-specific computational tools into their research or classroom. She consults on varying levels of data analysis, data publishing, and data visualization.&lt;/p&gt;
+&lt;p&gt;C. Cozette Comer is the Evidence Synthesis Services Coordinator at the University Libraries at Virginia Tech. She partners on and provides support and educational opportunities for evidence synthesis methods such as systematic reviews and meta-analyses. In 2019, Cozette led the reestablishment of the Text and Data Mining Groups at the Libraries as a means to learn more about ways to leverage TDM approaches for evidence synthesis.&lt;/p&gt;
+&lt;p&gt;Dr. Chreston Miller is currently an assistant professor and the Data and Informatics Consultant within Data Services of the University Libraries at Virginia Tech. He provides consulting services for researchers at Virginia Tech centered around data-related challenges. His focus has been in Machine Learning/Deep Learning but supports a wide array of data-related areas such as data wrangling and data sensemaking. Dr. Miller’s current research interests are Applied Machine Learning, specifically Natural Language Processing, Human Behavior Analysis, and Human-Centered Computing.&lt;/p&gt;
+&lt;p&gt;Nathaniel D. Porter is the Data Education Coordinator and Social Science Data Consultant in the Virginia Tech University Libraries and Sociology department. His research is focused on best practices for non-traditional data and experiential learning with data.&lt;/p&gt;
+&lt;p&gt;Michael J. Stamper is the Data Visualization Designer and Consultant for the Digital Arts at Virginia Tech Libraries. He advises and supports administrators, faculty, students, and the general public with their data visualization and information design wants and needs. He helps to lead users through design processes, define and refine requirements for projects, and performs user research on projects if time allows. He specializes in creating effective and insightful designs that communicate what audiences need to know. He also specializes in user interface (UI) design, user interaction (IxD) and user experience design (UX). He is an advocate for bringing more aspects of Design Thinking into projects, all the while integrating aspects from the visual arts, graphic and interaction design, and the sciences to creating more effective, meaningful, and insightful visualizations and experiences with scientific research.
+&lt;br/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>7th SIG-III International Café</title>
       <link>https://manika-lamba.github.io/talk/2023-05-11/</link>
-      <pubDate>Thu, 11 May 2023 18:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 May 2023 19:00:00 +0000</pubDate>
       
       <guid>https://manika-lamba.github.io/talk/2023-05-11/</guid>
       <description>&lt;script src=&#34;https://manika-lamba.github.io/talk/2023-05-11/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
@@ -288,6 +372,9 @@
       <guid>https://manika-lamba.github.io/news/2023/</guid>
       <description>&lt;script src=&#34;https://manika-lamba.github.io/news/2023/index_files/fitvids/fitvids.min.js&#34;&gt;&lt;/script&gt;
 &lt;ul&gt;
+&lt;li&gt;Started my Postdoctoral Research Associate position at the University of Illinois, Urbana-Champaign!!&lt;/li&gt;
+&lt;li&gt;Received &lt;strong&gt;Best Volunteer Award&lt;/strong&gt; by ASIS&amp;amp;T SIG-III!!&lt;/li&gt;
+&lt;li&gt;Signed book contract for &lt;strong&gt;&amp;lsquo;Introduction to Topic Modeling &amp;amp; Topic Visualization for Social Scientists&amp;rsquo;&lt;/strong&gt; with CRC Press.&lt;/li&gt;
 &lt;li&gt;Appointed as a &lt;strong&gt;Lecturer&lt;/strong&gt; at the Department of Library &amp;amp; Information Science, School of Open Learning (SOL), University of Delhi where I am teaching &lt;strong&gt;‘M-108 Information Storage &amp;amp; Retrieval System’&lt;/strong&gt; paper to MLIS students for the academic year 2022-2023.&lt;/li&gt;
 &lt;li&gt;Invited for &amp;ldquo;Meet the Authors&amp;rdquo; webinar by ASIS&amp;amp;T to give a talk on my book - &lt;em&gt;Text Mining for Information Professionals&lt;/em&gt;! The webinar will take place on 7th December 2023. Please register here: &lt;a href=&#34;https://t.co/IKjjK1Yhl7&#34;&gt;https://t.co/IKjjK1Yhl7&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Conferred with Ph.D. Degree at the 
@@ -1115,6 +1202,51 @@ PS: Political Science &amp;amp; Politics journal published by Cambridge Universi
 &lt;li&gt;
 &lt;a href=&#34;https://github.com/textmining-infopros/Appendix-C&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Appendix C: Text Data and Mining Licensing Conditions&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+
+
+
+&lt;h2 id=&#34;media&#34;&gt;Media
+  &lt;a href=&#34;#media&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h2&gt;
+
+
+
+
+&lt;h3 id=&#34;meet-the-authors-text-mining-for-information-professionals-an-uncharted-territory&#34;&gt;Meet the Authors: Text Mining for Information Professionals: An Uncharted Territory
+  &lt;a href=&#34;#meet-the-authors-text-mining-for-information-professionals-an-uncharted-territory&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;I was invited by Association for Information Science and Technology (ASIS&amp;amp;T), a preeminent professional association in information science,
+to give a talk on the book! The webinar will take place on 7th December 2023. Please register here: &lt;a href=&#34;https://t.co/IKjjK1Yhl7&#34;&gt;https://t.co/IKjjK1Yhl7&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;asist.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+
+
+
+
+&lt;h3 id=&#34;ifla-scitech-webinar-text-and-data-mining-work-at-virginia-tech-university&#34;&gt;IFLA SCITECH Webinar: Text and Data Mining Work at Virginia Tech University
+  &lt;a href=&#34;#ifla-scitech-webinar-text-and-data-mining-work-at-virginia-tech-university&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;
+      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;
+    &lt;/svg&gt;&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;Libraries International Federation of Library Associations &amp;amp; Institutions (IFLA), an international body of libraries and information professionals, invited following faculty/librarians/researchers who submitted their practical experience of using text mining in their libraries or research in the &lt;strong&gt;story section&lt;/strong&gt; of the book:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://textmining-infopros.github.io/collection/chapter1/01-story/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Leverage Undergraduate Student Researchers to Deliver Text Data Mining Services to Library Users&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://textmining-infopros.github.io/collection/chapter2/03-story/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TDM Working Group at the University Libraries at Virginia Tech&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://textmining-infopros.github.io/collection/chapter5/01-story/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Visualizing Topic Networks in Personal Correspondence: The Richards/Turner Letters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://textmining-infopros.github.io/collection/chapter8/01-story/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Natural Language Processing (NLP) for Sensory Science&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;iframe src=&#34;https://www.ifla.org/events/ifla-scitech-webinar-text-and-data-mining-work-at-virginia-tech-university-libraries&#34; width=&#34;640&#34; height=&#34;480&#34; allow=&#34;autoplay&#34;&gt;&lt;/iframe&gt;
 
 
 
